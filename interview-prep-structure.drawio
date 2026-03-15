@@ -1,497 +1,152 @@
 <mxfile host="app.diagrams.net" modified="2026-03-15T00:00:00.000Z" agent="Codex" version="24.7.17" editor="www.diagrams.net" type="device" compressed="false">
   <diagram id="interview-prep-structure" name="面接対策構造">
-    <mxGraphModel dx="1800" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="3200" math="0" shadow="0">
+    <mxGraphModel dx="1800" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2300" pageHeight="2300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="ダイセイ 面接対策マップ&#xa;自己紹介・経歴・転職理由・想定質問の整理" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1;fontColor=#17324D;" vertex="1" parent="1">
+
+        <mxCell id="2" value="ダイセイ 面接対策マップ&#xa;内容をカテゴリごとに1ブロックへ整理した版" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1;fontColor=#17324D;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="760" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="面接では『自己紹介 → 経歴 → 強み / AI活用 → 転職理由 → 転職の軸 → 将来ビジョン → 個別質問』の順で話す想定。&#xa;各ブロックはそのまま回答の下書きになるよう、文脈ごとに短い言い回しで整理しています。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#4F657A;" vertex="1" parent="1">
-          <mxGeometry x="20" y="78" width="980" height="44" as="geometry" />
+        <mxCell id="3" value="面接では『自己紹介 → 経歴 → 強み / AI活用 → 転職理由 → 転職の軸 → 将来ビジョン → 個別質問』の順で話す想定。&#xa;細かく分けすぎていた内容を、話しやすい単位で1ブロックずつにまとめ直しています。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#4F657A;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="980" height="44" as="geometry" />
         </mxCell>
 
         <mxCell id="10" value="面接対策の中心メッセージ&#xa;技術の幅 × 完遂力 × 事業視点 × 新技術活用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1F4E79;strokeColor=#173A5C;fontColor=#FFFFFF;fontStyle=1;fontSize=20;arcSize=18;" vertex="1" parent="1">
-          <mxGeometry x="995" y="210" width="410" height="96" as="geometry" />
+          <mxGeometry x="880" y="140" width="560" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="一言で言うと&#xa;Webとゲームの両方を経験し、Unityを軸にしつつ、&#xa;AI活用・バックエンド・リリース実務まで見られる開発者" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF3FB;strokeColor=#A7C7E3;fontSize=15;fontColor=#17324D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="330" width="330" height="90" as="geometry" />
+        <mxCell id="11" value="一言で言うと&#xa;Webとゲームの両方を経験し、Unityを軸にしつつ、AI活用・バックエンド理解・リリース実務まで見られる開発者" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF3FB;strokeColor=#A7C7E3;fontSize=15;fontColor=#17324D;spacing=8;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="960" y="250" width="400" height="86" as="geometry" />
         </mxCell>
 
         <mxCell id="20" value="1. 自己紹介の骨子" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EAF7;strokeColor=#8AB6D6;fontStyle=1;fontSize=17;fontColor=#17324D;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="150" width="250" height="56" as="geometry" />
+          <mxGeometry x="40" y="340" width="280" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="21" value="中国出身&#xa;日本在住10年以上" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8AB6D6;fontSize=14;fontColor=#17324D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="250" width="190" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="22" value="日本の大学院を修了後&#xa;エンジニアとしてキャリア開始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8AB6D6;fontSize=14;fontColor=#17324D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="250" y="250" width="190" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="23" value="Web開発から始まり&#xa;現在はUnityクライアント開発が専門" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8AB6D6;fontSize=14;fontColor=#17324D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="190" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="24" value="Web経験を活かして&#xa;API・DB・サーバー議論にも関われる" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8AB6D6;fontSize=14;fontColor=#17324D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="250" y="360" width="190" height="86" as="geometry" />
+        <mxCell id="21" value="・中国出身、日本在住10年以上。日本の大学院修了後にエンジニアとしてキャリアを開始&#xa;・Web開発から始まり、現在はUnityクライアント開発が専門&#xa;・Web経験を活かし、API・DB・サーバー議論にも関われる" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8AB6D6;fontSize=13;fontColor=#17324D;spacing=8;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="500" height="150" as="geometry" />
         </mxCell>
 
         <mxCell id="30" value="2. 経歴の流れ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EAF7;strokeColor=#8AB6D6;fontStyle=1;fontSize=17;fontColor=#17324D;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="520" width="250" height="56" as="geometry" />
+          <mxGeometry x="40" y="590" width="280" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="31" value="EPARK（正社員）&#xa;飲食店向け順番待ちシステムの開発" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8AB6D6;fontSize=14;fontColor=#17324D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="620" width="420" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="32" value="Web系開発会社・業務委託・フリーランス&#xa;PHP / JavaScript / SQL を用いたWeb開発を幅広く経験" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8AB6D6;fontSize=14;fontColor=#17324D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="720" width="420" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="33" value="2021年 ココネ株式会社&#xa;『ポケピア』の初期開発から運用まで担当" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8AB6D6;fontSize=14;fontColor=#17324D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="840" width="420" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="34" value="2023年 現職&#xa;IPタイトルのスマホゲーム開発・運用に従事" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8AB6D6;fontSize=14;fontColor=#17324D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="940" width="420" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="35" value="個人開発&#xa;サーバー連携型ゲームを設計から実装、Google Play リリースまで完遂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8AB6D6;fontSize=14;fontColor=#17324D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1040" width="420" height="92" as="geometry" />
+        <mxCell id="31" value="・EPARK（正社員）：飲食店向け順番待ちシステムの開発&#xa;・Web系開発会社 / 業務委託 / フリーランス：PHP・JavaScript・SQLで幅広いWeb開発を経験&#xa;・2021年 ココネ：『ポケピア』の初期開発から運用まで担当&#xa;・2023年 現職：IPタイトルのスマホゲーム開発・運用に従事&#xa;・個人開発：サーバー連携型ゲームを設計から実装、Google Play リリースまで完遂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8AB6D6;fontSize=13;fontColor=#17324D;spacing=8;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="660" width="500" height="230" as="geometry" />
         </mxCell>
 
         <mxCell id="40" value="3. 今回の転職理由" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8D8D8;strokeColor=#D58B8B;fontStyle=1;fontSize=17;fontColor=#6B2D2D;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="880" y="520" width="280" height="56" as="geometry" />
+          <mxGeometry x="780" y="340" width="300" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="41" value="働き方の変化も一因" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D58B8B;fontSize=14;fontColor=#6B2D2D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="770" y="620" width="220" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="42" value="それ以上に&#xa;ゲーム事業の将来性に疑問を持つようになった" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D58B8B;fontSize=14;fontColor=#6B2D2D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="620" width="220" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="43" value="スマホゲーム市場は成熟しており&#xa;タイトルごとの成功依存度が高い" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D58B8B;fontSize=14;fontColor=#6B2D2D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="770" y="730" width="220" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="44" value="今後はより市場ニーズが高く&#xa;社会的影響力と成長性のある分野へ挑戦したい" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D58B8B;fontSize=14;fontColor=#6B2D2D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="730" width="220" height="92" as="geometry" />
+        <mxCell id="41" value="・働き方の変化も一因だが、それ以上にゲーム事業の将来性に疑問を持つようになった&#xa;・スマホゲーム市場は成熟しており、タイトルごとの成功依存度が高い&#xa;・今後は、より市場ニーズが高く、社会的影響力と成長性のある分野へ挑戦したい" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D58B8B;fontSize=13;fontColor=#6B2D2D;spacing=8;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="780" y="410" width="520" height="170" as="geometry" />
         </mxCell>
 
         <mxCell id="50" value="4. 強み・差別化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CFEED7;strokeColor=#7FC28F;fontStyle=1;fontSize=17;fontColor=#1E4D2B;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="150" width="250" height="56" as="geometry" />
+          <mxGeometry x="1520" y="340" width="300" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="51" value="Unityクライアント開発&#xa;UI実装、3D演出、運用改修" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7FC28F;fontSize=14;fontColor=#1E4D2B;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="250" width="210" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="52" value="Web開発経験&#xa;PHP / JavaScript / SQL の基礎がある" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7FC28F;fontSize=14;fontColor=#1E4D2B;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="250" width="210" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="53" value="ゲームではクライアント中心だが&#xa;DB設計やAPI仕様の議論にも入れる" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7FC28F;fontSize=14;fontColor=#1E4D2B;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="360" width="210" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="54" value="個人開発で&#xa;設計から実装まで一気通貫で担当" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7FC28F;fontSize=14;fontColor=#1E4D2B;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="360" width="210" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="55" value="ビルド環境構築、広告SDK導入、リリース対応など&#xa;最後まで届ける実務経験がある" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7FC28F;fontSize=14;fontColor=#1E4D2B;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="470" width="220" height="92" as="geometry" />
+        <mxCell id="51" value="・Unityクライアント開発が主軸。UI実装、3D演出、運用改修まで対応&#xa;・Web開発経験があり、ゲームではクライアント中心でもDB設計やAPI仕様の議論に入れる&#xa;・個人開発で設計から実装まで一気通貫で担当し、ビルド環境構築、広告SDK導入、リリース対応まで経験" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7FC28F;fontSize=13;fontColor=#1E4D2B;spacing=8;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="410" width="540" height="190" as="geometry" />
         </mxCell>
 
-        <mxCell id="60" value="7. 転職の軸" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5E0F7;strokeColor=#9E8FD6;fontStyle=1;fontSize=17;fontColor=#423470;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="620" width="250" height="56" as="geometry" />
+        <mxCell id="60" value="5. AI活用・新技術" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDE7CC;strokeColor=#D9A25F;fontStyle=1;fontSize=17;fontColor=#6A4517;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="640" width="300" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="61" value="市場ニーズと成長性が高い分野" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9E8FD6;fontSize=14;fontColor=#423470;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="720" width="210" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="62" value="社会的な影響力があり&#xa;長期的に価値を出せるプロダクト" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9E8FD6;fontSize=14;fontColor=#423470;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="720" width="210" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="63" value="クライアント実装だけでなく&#xa;APIや仕様設計にも踏み込める環境" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9E8FD6;fontSize=14;fontColor=#423470;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="820" width="210" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="64" value="技術を研究で終わらせず&#xa;サービス価値として届けられる環境に関わりたい" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9E8FD6;fontSize=14;fontColor=#423470;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="820" width="210" height="86" as="geometry" />
+        <mxCell id="61" value="・現場ではAIをコードレビュー補助や仕様書の設計チェックに活用し、見落としやすい点を早期把握している&#xa;・個人開発ではGemini AIをゲームアプリに実装し、小さなストーリーやイラスト生成機能を開発&#xa;・新技術を研究で終わらせず、サービスやビジネス価値として届けたいという志向につながっている" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9A25F;fontSize=13;fontColor=#6A4517;spacing=8;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="710" width="540" height="220" as="geometry" />
         </mxCell>
 
-        <mxCell id="70" value="8. 将来ビジョン" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D7F1EE;strokeColor=#74B8AF;fontStyle=1;fontSize=17;fontColor=#18524A;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="930" y="930" width="250" height="56" as="geometry" />
+        <mxCell id="70" value="6. 要件理解・仕様整理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=#6E9FCC;fontStyle=1;fontSize=17;fontColor=#224B76;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="780" y="620" width="300" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="71" value="まずは開発業務を軸に&#xa;着実に経験と実績を積んでいきたい" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#74B8AF;fontSize=14;fontColor=#18524A;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1030" width="210" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="72" value="そのうえで&#xa;マネジメント業務にも挑戦していきたい" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#74B8AF;fontSize=14;fontColor=#18524A;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="995" y="1030" width="210" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="73" value="将来的にはPMとして&#xa;チーム全体を牽引できる存在を目指したい" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#74B8AF;fontSize=14;fontColor=#18524A;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1030" width="210" height="92" as="geometry" />
+        <mxCell id="71" value="・要件定義を直接担当した経験はまだない&#xa;・ただし、仕様書や要件書を基に開発全体の構造設計、仕様の整合性確認、機能詳細の整理、ドキュメント化を多く担ってきた&#xa;・要件を理解し、実装可能な形に落とし込むプロセスには自信がある" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9FCC;fontSize=13;fontColor=#224B76;spacing=8;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="780" y="690" width="520" height="180" as="geometry" />
         </mxCell>
 
-        <mxCell id="80" value="9. 退職理由の整理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontStyle=1;fontSize=17;fontColor=#5C4300;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1190" width="280" height="56" as="geometry" />
+        <mxCell id="80" value="7. 転職の軸" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5E0F7;strokeColor=#9E8FD6;fontStyle=1;fontSize=17;fontColor=#423470;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="970" width="300" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="81" value="EPARK&#xa;既存運用が中心で技術的挑戦が限られていたため、&#xa;より成長できる開発環境を求めて退職" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=14;fontColor=#5C4300;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1290" width="250" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="82" value="PASCO&#xa;業務委託契約の終了に伴う退職。&#xa;そのタイミングで正社員への転職を志向" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=14;fontColor=#5C4300;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1290" width="250" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="83" value="ココネ&#xa;『ポケピア』縮小方針に加え、他案件の方向性が自分の志向と異なった。&#xa;個人開発ゲームの完成タイミングでもあり、退職後1か月集中してGoogle Playへリリース" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=14;fontColor=#5C4300;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1430" width="300" height="156" as="geometry" />
+        <mxCell id="81" value="・市場ニーズと成長性が高い分野&#xa;・社会的な影響力があり、長期的に価値を出せるプロダクト&#xa;・クライアント実装だけでなく、APIや仕様設計にも踏み込める環境&#xa;・技術を研究で終わらせず、サービス価値として届けられる仕事" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9E8FD6;fontSize=13;fontColor=#423470;spacing=8;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1040" width="540" height="180" as="geometry" />
         </mxCell>
 
-        <mxCell id="90" value="12. よく聞かれる質問と返答の芯" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9ECEF;strokeColor=#A2A9B0;fontStyle=1;fontSize=17;fontColor=#334155;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1540" width="350" height="56" as="geometry" />
+        <mxCell id="90" value="8. 将来ビジョン" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D7F1EE;strokeColor=#74B8AF;fontStyle=1;fontSize=17;fontColor=#18524A;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="780" y="930" width="300" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="91" value="なぜWebからゲームへ？&#xa;もともとゲーム開発への関心が強く、個人でUnity開発を続けていたため、本業でも挑戦したかった" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=14;fontColor=#334155;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="1640" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="92" value="なぜ今ゲーム業界から転職？&#xa;市場成熟と事業成長性を考え、より需要と社会的影響力のある領域で力を発揮したい" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=14;fontColor=#334155;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="1640" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="93" value="あなたの強みは？&#xa;Unity専門性に加え、Webとサーバー理解があり、API・DB連携を見ながら一気通貫で完遂できること" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=14;fontColor=#334155;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="1790" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="94" value="退職後は何をしていた？&#xa;3年以上開発していた個人ゲームの仕上げに集中し、約1か月でGoogle Playにリリースした" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=14;fontColor=#334155;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="1790" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="95" value="ゲーム経験は他分野でどう活きる？&#xa;運用改善、品質管理、短いサイクルでの実装、ユーザー体験志向を持って開発できる" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=14;fontColor=#334155;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="1940" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="96" value="AIをどう活用している？&#xa;現場ではコードレビュー補助や仕様チェックに使い、個人開発ではGemini AIで生成機能を実装した" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=14;fontColor=#334155;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="1940" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="97" value="要件定義経験は？&#xa;直接担当はないが、仕様書を基に全体設計、整合性確認、詳細化と文書化を多く担ってきた" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=14;fontColor=#334155;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="2090" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="98" value="今後どんな役割を目指す？&#xa;まずは開発で成果を出し、その後マネジメントにも挑戦し、将来はPMとして牽引したい" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=14;fontColor=#334155;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="2090" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="99" value="大変だった経験は？&#xa;外注イラスト・3D制作でイメージ差分の調整に苦労し、認識合わせの重要性を学んだ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=14;fontColor=#334155;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="2240" width="220" height="132" as="geometry" />
+        <mxCell id="91" value="・まずは開発業務を軸に着実に経験と実績を積みたい&#xa;・そのうえでマネジメントにも挑戦し、将来的にはPMとしてチーム全体を牽引できる存在を目指したい" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#74B8AF;fontSize=13;fontColor=#18524A;spacing=8;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1000" width="520" height="150" as="geometry" />
         </mxCell>
 
-        <mxCell id="200" value="5. AI活用・新技術" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDE7CC;strokeColor=#D9A25F;fontStyle=1;fontSize=17;fontColor=#6A4517;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="930" width="330" height="56" as="geometry" />
+        <mxCell id="100" value="9. 退職理由の整理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontStyle=1;fontSize=17;fontColor=#5C4300;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="930" width="300" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="201" value="現場ではAIを&#xa;コードレビュー補助や仕様書の設計チェックに活用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9A25F;fontSize=14;fontColor=#6A4517;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="1030" width="220" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="202" value="人だけでは見落としやすい点を&#xa;早い段階で把握しやすくなった" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9A25F;fontSize=14;fontColor=#6A4517;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="1030" width="220" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="203" value="個人開発ではGemini AIをゲームアプリに実装し&#xa;小さなストーリーやイラスト生成機能を作った" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9A25F;fontSize=14;fontColor=#6A4517;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="1170" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="204" value="新技術を研究で終わらせず&#xa;サービスやビジネス価値として届けたいという志向につながった" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9A25F;fontSize=14;fontColor=#6A4517;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="1170" width="220" height="132" as="geometry" />
+        <mxCell id="101" value="・EPARK：既存運用が中心で技術的挑戦が限られていたため、より成長できる開発環境を求めて退職&#xa;・PASCO：業務委託契約の終了に伴う退職。そのタイミングで正社員への転職を志向&#xa;・ココネ：『ポケピア』縮小方針に加え、他案件の方向性が自分の志向と異なった。個人開発ゲームの完成タイミングでもあり、退職後1か月集中してGoogle Playへリリース" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=13;fontColor=#5C4300;spacing=8;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1000" width="500" height="260" as="geometry" />
         </mxCell>
 
-        <mxCell id="210" value="6. 要件理解・仕様整理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=#6E9FCC;fontStyle=1;fontSize=17;fontColor=#224B76;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1190" width="330" height="56" as="geometry" />
+        <mxCell id="110" value="10. 担当領域・連携スタイル" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F4E8;strokeColor=#79B78A;fontStyle=1;fontSize=17;fontColor=#255436;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1290" width="300" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="211" value="要件定義を直接担当した経験は&#xa;まだない" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9FCC;fontSize=14;fontColor=#224B76;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1290" width="220" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="212" value="ただし、仕様書や要件書を基に&#xa;開発全体の構造設計や仕様の整合性確認を多く担ってきた" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9FCC;fontSize=14;fontColor=#224B76;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1290" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="213" value="機能の詳細をチーム内で整理し&#xa;ドキュメント化する過程にも関わってきた" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9FCC;fontSize=14;fontColor=#224B76;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1290" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="214" value="要件を理解し、実装可能な形に落とし込む&#xa;プロセスには自信がある" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9FCC;fontSize=14;fontColor=#224B76;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1440" width="220" height="110" as="geometry" />
+        <mxCell id="111" value="・スマホゲーム業界では主にクライアント側を担当してきた&#xa;・ただし新機能開発では、DB設計やAPI仕様をサーバー担当と連携しながら進めることが多い&#xa;・Web開発ではPASCOで官公庁向け施設管理システムのフロント / バック両方を一人で担当することも多かった&#xa;・体制やツール次第では、一人でフロントとバックをまとめて持つ方が効率的なケースにも柔軟に対応できる" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#79B78A;fontSize=13;fontColor=#255436;spacing=8;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1360" width="500" height="250" as="geometry" />
         </mxCell>
 
-        <mxCell id="220" value="12. 苦労したこと・学び" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE4EC;strokeColor=#C97B9E;fontStyle=1;fontSize=17;fontColor=#7A274F;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1600" width="330" height="56" as="geometry" />
+        <mxCell id="120" value="11. 成功経験・改善実績" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E7F0FF;strokeColor=#6F95D8;fontStyle=1;fontSize=17;fontColor=#22407A;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1640" width="300" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="121" value="・3D女性向け着せ替えゲームで、アイテム3Dモデルからサムネイル画像を一括生成するツールを開発&#xa;・デザイナーや企画担当から要望をヒアリングし、「大量のアイテムのサムネイルを効率よく生成したい」という課題を整理&#xa;・3Dモデルのサイズや形状に応じてカメラ位置・距離を自動調整し、正方形内で余白なく最大表示できるよう設計。見栄え向上のため照明調整機能も追加&#xa;・アジャイル開発の中で、表示方法や出力設定などの追加要望にも柔軟に対応&#xa;・結果として手作業だったサムネイル作成を自動化し、制作効率を大きく改善できた" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6F95D8;fontSize=13;fontColor=#22407A;spacing=8;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1710" width="500" height="350" as="geometry" />
         </mxCell>
 
-        <mxCell id="300" value="10. 担当領域・連携スタイル" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F4E8;strokeColor=#79B78A;fontStyle=1;fontSize=17;fontColor=#255436;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1640" width="350" height="56" as="geometry" />
+        <mxCell id="130" value="12. 苦労したこと・学び" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE4EC;strokeColor=#C97B9E;fontStyle=1;fontSize=17;fontColor=#7A274F;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1210" width="300" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="301" value="スマホゲーム業界では&#xa;主にクライアント側を担当してきた" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#79B78A;fontSize=14;fontColor=#255436;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1740" width="220" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="302" value="ただし新機能開発では&#xa;DB設計やAPI仕様をサーバー担当と連携しながら進めることが多い" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#79B78A;fontSize=14;fontColor=#255436;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1740" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="303" value="以前のWeb開発ではPASCOで&#xa;官公庁向け施設管理システムのFE/BEを一人で担当することも多かった" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#79B78A;fontSize=14;fontColor=#255436;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1890" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="304" value="体制やツール次第では&#xa;一人でフロントとバックをまとめて持つ方が効率的なケースにも対応できる" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#79B78A;fontSize=14;fontColor=#255436;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1890" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="305" value="サーバー側の経験は？&#xa;ゲームでは主にクライアント担当だが、DB設計やAPI仕様はサーバー側と連携し、PASCOではFE/BE両方を担当した" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=14;fontColor=#334155;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="2390" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="306" value="フルスタック対応は可能？&#xa;現場の体制や技術選定によっては一人でまとめて持つ方が効率的な場面もあり、柔軟に対応できる" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=14;fontColor=#334155;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="2390" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="320" value="11. 成功経験・改善実績" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E7F0FF;strokeColor=#6F95D8;fontStyle=1;fontSize=17;fontColor=#22407A;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2080" width="350" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="321" value="3D女性向け着せ替えゲームで&#xa;アイテム3Dモデルからサムネイル画像を一括生成するツールを開発" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6F95D8;fontSize=14;fontColor=#22407A;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2180" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="322" value="まずデザイナーや企画担当から要望を聞き、&#xa;大量アイテムのサムネイルを効率よく生成したい課題を整理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6F95D8;fontSize=14;fontColor=#22407A;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="2180" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="323" value="3Dモデルのサイズや形状に応じて&#xa;カメラ位置・距離を自動調整し、正方形内で余白なく最大表示できるよう設計" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6F95D8;fontSize=14;fontColor=#22407A;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2330" width="220" height="156" as="geometry" />
-        </mxCell>
-        <mxCell id="324" value="さらに見栄え向上のため&#xa;照明調整機能も追加" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6F95D8;fontSize=14;fontColor=#22407A;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="2330" width="220" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="325" value="アジャイル開発の中で&#xa;表示方法や出力設定など途中で出た要望にも柔軟に対応" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6F95D8;fontSize=14;fontColor=#22407A;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="2460" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="326" value="結果として&#xa;手作業だったサムネイル作成を自動化し、制作効率を大きく改善できた" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6F95D8;fontSize=14;fontColor=#22407A;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2510" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="327" value="成功経験を教えてください&#xa;課題ヒアリングから設計・実装・改善まで担い、現場の手作業を自動化して効率を大きく上げた経験がある" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=14;fontColor=#334155;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="2540" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="328" value="改善実績は？&#xa;3Dサムネイル生成ツールで、要望整理から見栄え改善、追加要望対応まで行い、制作工程を自動化した" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=14;fontColor=#334155;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="2540" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="221" value="個人開発ゲームでは&#xa;イラストや3Dモデルを外注と連携して制作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C97B9E;fontSize=14;fontColor=#7A274F;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1700" width="220" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="222" value="美術面は審美感の差が出やすく&#xa;詳細仕様書を作ってもイメージがずれることがあった" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C97B9E;fontSize=14;fontColor=#7A274F;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1700" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="223" value="成果物を見ながら認識のずれを一つずつすり合わせ&#xa;修正を重ねる調整に苦労した" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C97B9E;fontSize=14;fontColor=#7A274F;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1700" width="220" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="224" value="学びとして&#xa;参考イメージ共有と早い段階の対話が重要だと実感した" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C97B9E;fontSize=14;fontColor=#7A274F;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1850" width="220" height="110" as="geometry" />
+        <mxCell id="131" value="・個人開発ゲームではイラストや3Dモデルを外注と連携して制作&#xa;・美術面は審美感の差が出やすく、詳細仕様書を作ってもイメージがずれることがあった&#xa;・成果物を見ながら認識のずれを一つずつすり合わせ、修正を重ねる調整に苦労&#xa;・学びとして、参考イメージの共有と早い段階の対話が重要だと実感した" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C97B9E;fontSize=13;fontColor=#7A274F;spacing=8;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1280" width="520" height="210" as="geometry" />
         </mxCell>
 
-        <mxCell id="100" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="140" value="13. よく聞かれる質問と返答の芯" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9ECEF;strokeColor=#A2A9B0;fontStyle=1;fontSize=17;fontColor=#334155;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1260" width="300" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="101" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="102" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="103" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="104" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="105" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="70">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="106" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="107" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="90">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="230" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="200">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="231" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="210">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="232" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="220">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="307" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="300">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="329" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="320">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="141" value="Q. なぜWebからゲームへ？&#xa;A. もともとゲーム開発への関心が強く、個人でUnity開発を続けていたため、本業でも挑戦したかった。&#xa;&#xa;Q. なぜ今ゲーム業界から転職？&#xa;A. 市場成熟と事業成長性を踏まえ、より需要と社会的影響力のある領域で力を発揮したい。&#xa;&#xa;Q. あなたの強みは？&#xa;A. Unity専門性に加え、Webとサーバー理解があり、API・DB連携を見ながら一気通貫で完遂できる点。&#xa;&#xa;Q. AIをどう活用している？&#xa;A. 現場ではコードレビュー補助や仕様チェック、個人開発ではGemini AIによる生成機能実装を経験。&#xa;&#xa;Q. 要件定義やサーバー側経験は？&#xa;A. 直接の要件定義担当ではないが、仕様整理・整合性確認・文書化を多く経験。ゲームではクライアント担当中心だが、サーバー側とDB / API仕様を連携し、Webではフロント / バック両方も担当。&#xa;&#xa;Q. 今後どんな役割を目指す？&#xa;A. まずは開発で成果を出し、その後マネジメントに挑戦し、将来的にはPMとしてチームを牽引したい。&#xa;&#xa;Q. 成功経験 / 苦労した経験は？&#xa;A. サムネイル自動生成ツールで制作効率を改善した一方、外注制作では認識合わせの重要性を学んだ。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=12;fontColor=#334155;spacing=8;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1330" width="540" height="760" as="geometry" />
         </mxCell>
 
-        <mxCell id="110" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#8AB6D6;strokeWidth=2;" edge="1" parent="1" source="20" target="21">
+        <mxCell id="200" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="111" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#8AB6D6;strokeWidth=2;" edge="1" parent="1" source="20" target="22">
+        <mxCell id="201" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="112" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#8AB6D6;strokeWidth=2;" edge="1" parent="1" source="20" target="23">
+        <mxCell id="202" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="113" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#8AB6D6;strokeWidth=2;" edge="1" parent="1" source="20" target="24">
+        <mxCell id="203" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="120" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#8AB6D6;strokeWidth=2;" edge="1" parent="1" source="30" target="31">
+        <mxCell id="204" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="121" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#8AB6D6;strokeWidth=2;" edge="1" parent="1" source="31" target="32">
+        <mxCell id="205" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="122" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#8AB6D6;strokeWidth=2;" edge="1" parent="1" source="32" target="33">
+        <mxCell id="206" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="123" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#8AB6D6;strokeWidth=2;" edge="1" parent="1" source="33" target="34">
+        <mxCell id="207" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="124" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#8AB6D6;strokeWidth=2;" edge="1" parent="1" source="34" target="35">
+        <mxCell id="208" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="130" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D58B8B;strokeWidth=2;" edge="1" parent="1" source="40" target="41">
+        <mxCell id="209" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="131" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D58B8B;strokeWidth=2;" edge="1" parent="1" source="40" target="42">
+        <mxCell id="210" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="132" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D58B8B;strokeWidth=2;" edge="1" parent="1" source="40" target="43">
+        <mxCell id="211" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="133" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D58B8B;strokeWidth=2;" edge="1" parent="1" source="40" target="44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-
-        <mxCell id="140" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#7FC28F;strokeWidth=2;" edge="1" parent="1" source="50" target="51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="141" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#7FC28F;strokeWidth=2;" edge="1" parent="1" source="50" target="52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="142" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#7FC28F;strokeWidth=2;" edge="1" parent="1" source="50" target="53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="143" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#7FC28F;strokeWidth=2;" edge="1" parent="1" source="50" target="54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="144" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#7FC28F;strokeWidth=2;" edge="1" parent="1" source="50" target="55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-
-        <mxCell id="150" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#9E8FD6;strokeWidth=2;" edge="1" parent="1" source="60" target="61">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="151" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#9E8FD6;strokeWidth=2;" edge="1" parent="1" source="60" target="62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="152" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#9E8FD6;strokeWidth=2;" edge="1" parent="1" source="60" target="63">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="153" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#9E8FD6;strokeWidth=2;" edge="1" parent="1" source="60" target="64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-
-        <mxCell id="160" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#74B8AF;strokeWidth=2;" edge="1" parent="1" source="70" target="71">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="161" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#74B8AF;strokeWidth=2;" edge="1" parent="1" source="70" target="72">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="162" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#74B8AF;strokeWidth=2;" edge="1" parent="1" source="70" target="73">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-
-        <mxCell id="170" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D6B656;strokeWidth=2;" edge="1" parent="1" source="80" target="81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="171" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D6B656;strokeWidth=2;" edge="1" parent="1" source="80" target="82">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="172" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D6B656;strokeWidth=2;" edge="1" parent="1" source="80" target="83">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-
-        <mxCell id="180" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#A2A9B0;strokeWidth=2;" edge="1" parent="1" source="90" target="91">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="181" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#A2A9B0;strokeWidth=2;" edge="1" parent="1" source="90" target="92">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="182" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#A2A9B0;strokeWidth=2;" edge="1" parent="1" source="90" target="93">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="183" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#A2A9B0;strokeWidth=2;" edge="1" parent="1" source="90" target="94">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="184" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#A2A9B0;strokeWidth=2;" edge="1" parent="1" source="90" target="95">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="185" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#A2A9B0;strokeWidth=2;" edge="1" parent="1" source="90" target="96">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="186" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#A2A9B0;strokeWidth=2;" edge="1" parent="1" source="90" target="97">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="187" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#A2A9B0;strokeWidth=2;" edge="1" parent="1" source="90" target="98">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="188" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#A2A9B0;strokeWidth=2;" edge="1" parent="1" source="90" target="99">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="312" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#A2A9B0;strokeWidth=2;" edge="1" parent="1" source="90" target="305">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="313" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#A2A9B0;strokeWidth=2;" edge="1" parent="1" source="90" target="306">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="330" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#A2A9B0;strokeWidth=2;" edge="1" parent="1" source="90" target="327">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="331" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#A2A9B0;strokeWidth=2;" edge="1" parent="1" source="90" target="328">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="233" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D9A25F;strokeWidth=2;" edge="1" parent="1" source="200" target="201">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="234" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D9A25F;strokeWidth=2;" edge="1" parent="1" source="200" target="202">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="235" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D9A25F;strokeWidth=2;" edge="1" parent="1" source="200" target="203">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="236" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D9A25F;strokeWidth=2;" edge="1" parent="1" source="200" target="204">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="237" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#6E9FCC;strokeWidth=2;" edge="1" parent="1" source="210" target="211">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="238" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#6E9FCC;strokeWidth=2;" edge="1" parent="1" source="210" target="212">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="239" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#6E9FCC;strokeWidth=2;" edge="1" parent="1" source="210" target="213">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="240" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#6E9FCC;strokeWidth=2;" edge="1" parent="1" source="210" target="214">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="241" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#C97B9E;strokeWidth=2;" edge="1" parent="1" source="220" target="221">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="242" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#C97B9E;strokeWidth=2;" edge="1" parent="1" source="220" target="222">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="243" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#C97B9E;strokeWidth=2;" edge="1" parent="1" source="220" target="223">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="244" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#C97B9E;strokeWidth=2;" edge="1" parent="1" source="220" target="224">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="314" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#79B78A;strokeWidth=2;" edge="1" parent="1" source="300" target="301">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="315" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#79B78A;strokeWidth=2;" edge="1" parent="1" source="300" target="302">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="316" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#79B78A;strokeWidth=2;" edge="1" parent="1" source="300" target="303">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="317" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#79B78A;strokeWidth=2;" edge="1" parent="1" source="300" target="304">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="332" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#6F95D8;strokeWidth=2;" edge="1" parent="1" source="320" target="321">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="333" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#6F95D8;strokeWidth=2;" edge="1" parent="1" source="320" target="322">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="334" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#6F95D8;strokeWidth=2;" edge="1" parent="1" source="320" target="323">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="335" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#6F95D8;strokeWidth=2;" edge="1" parent="1" source="320" target="324">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="336" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#6F95D8;strokeWidth=2;" edge="1" parent="1" source="320" target="325">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="337" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#6F95D8;strokeWidth=2;" edge="1" parent="1" source="320" target="326">
+        <mxCell id="212" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
