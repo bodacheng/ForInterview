@@ -1,152 +1,136 @@
-<mxfile host="app.diagrams.net" modified="2026-03-15T00:00:00.000Z" agent="Codex" version="24.7.17" editor="www.diagrams.net" type="device" compressed="false">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" compressed="false" version="29.6.1">
   <diagram id="interview-prep-structure" name="面接対策構造">
-    <mxGraphModel dx="1800" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2300" pageHeight="2300" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2300" pageHeight="2300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-
-        <mxCell id="2" value="ダイセイ 面接対策マップ&#xa;内容をカテゴリごとに1ブロックへ整理した版" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1;fontColor=#17324D;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="760" height="56" as="geometry" />
+        <mxCell id="2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1;fontColor=#17324D;" value="ダイセイ 面接対策マップ&#xa;内容をカテゴリごとに1ブロックへ整理した版" vertex="1">
+          <mxGeometry height="56" width="760" x="20" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="面接では『自己紹介 → 経歴 → 強み / AI活用 → 転職理由 → 転職の軸 → 将来ビジョン → 個別質問』の順で話す想定。&#xa;細かく分けすぎていた内容を、話しやすい単位で1ブロックずつにまとめ直しています。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#4F657A;" vertex="1" parent="1">
-          <mxGeometry x="20" y="80" width="980" height="44" as="geometry" />
+        <mxCell id="3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#4F657A;" value="面接では『自己紹介 → 経歴 → 強み / AI活用 → 転職理由 → 転職の軸 → 将来ビジョン → 個別質問』の順で話す想定。&#xa;細かく分けすぎていた内容を、話しやすい単位で1ブロックずつにまとめ直しています。" vertex="1">
+          <mxGeometry height="44" width="980" x="20" y="80" as="geometry" />
         </mxCell>
-
-        <mxCell id="10" value="面接対策の中心メッセージ&#xa;技術の幅 × 完遂力 × 事業視点 × 新技術活用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1F4E79;strokeColor=#173A5C;fontColor=#FFFFFF;fontStyle=1;fontSize=20;arcSize=18;" vertex="1" parent="1">
-          <mxGeometry x="880" y="140" width="560" height="92" as="geometry" />
+        <mxCell id="10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1F4E79;strokeColor=#173A5C;fontColor=#FFFFFF;fontStyle=1;fontSize=20;arcSize=18;" value="面接対策の中心メッセージ&#xa;技術の幅 × 完遂力 × 事業視点 × 新技術活用" vertex="1">
+          <mxGeometry height="92" width="560" x="880" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="一言で言うと&#xa;Webとゲームの両方を経験し、Unityを軸にしつつ、AI活用・バックエンド理解・リリース実務まで見られる開発者" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF3FB;strokeColor=#A7C7E3;fontSize=15;fontColor=#17324D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="960" y="250" width="400" height="86" as="geometry" />
+        <mxCell id="11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF3FB;strokeColor=#A7C7E3;fontSize=15;fontColor=#17324D;spacing=8;arcSize=14;" value="一言で言うと&#xa;Webとゲームの両方を経験し、Unityを軸にしつつ、AI活用・バックエンド理解・リリース実務まで見られる開発者" vertex="1">
+          <mxGeometry height="86" width="400" x="960" y="250" as="geometry" />
         </mxCell>
-
-        <mxCell id="20" value="1. 自己紹介の骨子" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EAF7;strokeColor=#8AB6D6;fontStyle=1;fontSize=17;fontColor=#17324D;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="340" width="280" height="56" as="geometry" />
+        <mxCell id="20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EAF7;strokeColor=#8AB6D6;fontStyle=1;fontSize=17;fontColor=#17324D;arcSize=16;" value="1. 自己紹介の骨子" vertex="1">
+          <mxGeometry height="56" width="280" x="40" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="21" value="・中国出身、日本在住10年以上。日本の大学院修了後にエンジニアとしてキャリアを開始&#xa;・Web開発から始まり、現在はUnityクライアント開発が専門&#xa;・Web経験を活かし、API・DB・サーバー議論にも関われる" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8AB6D6;fontSize=13;fontColor=#17324D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="410" width="500" height="150" as="geometry" />
+        <mxCell id="21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8AB6D6;fontSize=13;fontColor=#17324D;spacing=8;arcSize=14;" value="・中国出身、日本在住10年以上。日本の大学院修了後にエンジニアとしてキャリアを開始&#xa;・Web開発から始まり、現在はUnityクライアント開発が専門&#xa;・Web経験を活かし、API・DB・サーバー議論にも関われる" vertex="1">
+          <mxGeometry height="150" width="500" x="40" y="410" as="geometry" />
         </mxCell>
-
-        <mxCell id="30" value="2. 経歴の流れ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EAF7;strokeColor=#8AB6D6;fontStyle=1;fontSize=17;fontColor=#17324D;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="590" width="280" height="56" as="geometry" />
+        <mxCell id="30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EAF7;strokeColor=#8AB6D6;fontStyle=1;fontSize=17;fontColor=#17324D;arcSize=16;" value="2. 経歴の流れ" vertex="1">
+          <mxGeometry height="56" width="280" x="40" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="31" value="・EPARK（正社員）：飲食店向け順番待ちシステムの開発&#xa;・Web系開発会社 / 業務委託 / フリーランス：PHP・JavaScript・SQLで幅広いWeb開発を経験&#xa;・2021年 ココネ：『ポケピア』の初期開発から運用まで担当&#xa;・2023年 現職：IPタイトルのスマホゲーム開発・運用に従事&#xa;・個人開発：サーバー連携型ゲームを設計から実装、Google Play リリースまで完遂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8AB6D6;fontSize=13;fontColor=#17324D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="660" width="500" height="230" as="geometry" />
+        <mxCell id="31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8AB6D6;fontSize=13;fontColor=#17324D;spacing=8;arcSize=14;" value="・EPARK（正社員）：飲食店向け順番待ちシステムの開発&#xa;・Web系開発会社 / 業務委託 / フリーランス：PHP・JavaScript・SQLで幅広いWeb開発を経験&#xa;・2021年 ココネ：『ポケピア』の初期開発から運用まで担当&#xa;・2023年 現職：IPタイトルのスマホゲーム開発・運用に従事&#xa;・個人開発：サーバー連携型ゲームを設計から実装、Google Play リリースまで完遂" vertex="1">
+          <mxGeometry height="230" width="500" x="40" y="660" as="geometry" />
         </mxCell>
-
-        <mxCell id="40" value="3. 今回の転職理由" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8D8D8;strokeColor=#D58B8B;fontStyle=1;fontSize=17;fontColor=#6B2D2D;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="780" y="340" width="300" height="56" as="geometry" />
+        <mxCell id="40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8D8D8;strokeColor=#D58B8B;fontStyle=1;fontSize=17;fontColor=#6B2D2D;arcSize=16;" value="3. 今回の転職理由" vertex="1">
+          <mxGeometry height="56" width="300" x="780" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="41" value="・働き方の変化も一因だが、それ以上にゲーム事業の将来性に疑問を持つようになった&#xa;・スマホゲーム市場は成熟しており、タイトルごとの成功依存度が高い&#xa;・今後は、より市場ニーズが高く、社会的影響力と成長性のある分野へ挑戦したい" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D58B8B;fontSize=13;fontColor=#6B2D2D;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="780" y="410" width="520" height="170" as="geometry" />
+        <mxCell id="41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D58B8B;fontSize=13;fontColor=#6B2D2D;spacing=8;arcSize=14;" value="・働き方の変化も一因だが、それ以上にゲーム事業の将来性に疑問を持つようになった&#xa;・スマホゲーム市場は成熟しており、タイトルごとの成功依存度が高い&#xa;・今後は、より市場ニーズが高く、社会的影響力と成長性のある分野へ挑戦したい" vertex="1">
+          <mxGeometry height="170" width="520" x="780" y="410" as="geometry" />
         </mxCell>
-
-        <mxCell id="50" value="4. 強み・差別化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CFEED7;strokeColor=#7FC28F;fontStyle=1;fontSize=17;fontColor=#1E4D2B;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="340" width="300" height="56" as="geometry" />
+        <mxCell id="50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CFEED7;strokeColor=#7FC28F;fontStyle=1;fontSize=17;fontColor=#1E4D2B;arcSize=16;" value="4. 強み・差別化" vertex="1">
+          <mxGeometry height="56" width="300" x="1520" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="51" value="・Unityクライアント開発が主軸。UI実装、3D演出、運用改修まで対応&#xa;・Web開発経験があり、ゲームではクライアント中心でもDB設計やAPI仕様の議論に入れる&#xa;・個人開発で設計から実装まで一気通貫で担当し、ビルド環境構築、広告SDK導入、リリース対応まで経験" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7FC28F;fontSize=13;fontColor=#1E4D2B;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="410" width="540" height="190" as="geometry" />
+        <mxCell id="51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7FC28F;fontSize=13;fontColor=#1E4D2B;spacing=8;arcSize=14;" value="・Unityクライアント開発が主軸。UI実装、3D演出、運用改修まで対応&#xa;・Web開発経験があり、ゲームではクライアント中心でもDB設計やAPI仕様の議論に入れる&#xa;・個人開発で設計から実装まで一気通貫で担当し、ビルド環境構築、広告SDK導入、リリース対応まで経験" vertex="1">
+          <mxGeometry height="190" width="540" x="1520" y="410" as="geometry" />
         </mxCell>
-
-        <mxCell id="60" value="5. AI活用・新技術" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDE7CC;strokeColor=#D9A25F;fontStyle=1;fontSize=17;fontColor=#6A4517;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="640" width="300" height="56" as="geometry" />
+        <mxCell id="60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDE7CC;strokeColor=#D9A25F;fontStyle=1;fontSize=17;fontColor=#6A4517;arcSize=16;" value="5. AI活用・新技術" vertex="1">
+          <mxGeometry height="56" width="300" x="1520" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="61" value="・現場ではAIをコードレビュー補助や仕様書の設計チェックに活用し、見落としやすい点を早期把握している&#xa;・個人開発ではGemini AIをゲームアプリに実装し、小さなストーリーやイラスト生成機能を開発&#xa;・新技術を研究で終わらせず、サービスやビジネス価値として届けたいという志向につながっている" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9A25F;fontSize=13;fontColor=#6A4517;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="710" width="540" height="220" as="geometry" />
+        <mxCell id="61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9A25F;fontSize=13;fontColor=#6A4517;spacing=8;arcSize=14;" value="・現場ではAIをコードレビュー補助や仕様書の設計チェックに活用し、見落としやすい点を早期把握している&#xa;・個人開発ではGemini AIをゲームアプリに実装し、小さなストーリーやイラスト生成機能を開発&#xa;・新技術を研究で終わらせず、サービスやビジネス価値として届けたいという志向につながっている" vertex="1">
+          <mxGeometry height="220" width="540" x="1520" y="710" as="geometry" />
         </mxCell>
-
-        <mxCell id="70" value="6. 要件理解・仕様整理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=#6E9FCC;fontStyle=1;fontSize=17;fontColor=#224B76;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="780" y="620" width="300" height="56" as="geometry" />
+        <mxCell id="70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=#6E9FCC;fontStyle=1;fontSize=17;fontColor=#224B76;arcSize=16;" value="6. 要件理解・仕様整理" vertex="1">
+          <mxGeometry height="56" width="300" x="780" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="71" value="・要件定義を直接担当した経験はまだない&#xa;・ただし、仕様書や要件書を基に開発全体の構造設計、仕様の整合性確認、機能詳細の整理、ドキュメント化を多く担ってきた&#xa;・要件を理解し、実装可能な形に落とし込むプロセスには自信がある" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9FCC;fontSize=13;fontColor=#224B76;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="780" y="690" width="520" height="180" as="geometry" />
+        <mxCell id="71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9FCC;fontSize=13;fontColor=#224B76;spacing=8;arcSize=14;" value="・要件定義を直接担当した経験はまだない&#xa;・ただし、仕様書や要件書を基に開発全体の構造設計、仕様の整合性確認、機能詳細の整理、ドキュメント化を多く担ってきた&#xa;・要件を理解し、実装可能な形に落とし込むプロセスには自信がある" vertex="1">
+          <mxGeometry height="180" width="520" x="780" y="690" as="geometry" />
         </mxCell>
-
-        <mxCell id="80" value="7. 転職の軸" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5E0F7;strokeColor=#9E8FD6;fontStyle=1;fontSize=17;fontColor=#423470;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="970" width="300" height="56" as="geometry" />
+        <mxCell id="80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5E0F7;strokeColor=#9E8FD6;fontStyle=1;fontSize=17;fontColor=#423470;arcSize=16;" value="7. 転職の軸" vertex="1">
+          <mxGeometry height="56" width="300" x="1520" y="970" as="geometry" />
         </mxCell>
-        <mxCell id="81" value="・市場ニーズと成長性が高い分野&#xa;・社会的な影響力があり、長期的に価値を出せるプロダクト&#xa;・クライアント実装だけでなく、APIや仕様設計にも踏み込める環境&#xa;・技術を研究で終わらせず、サービス価値として届けられる仕事" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9E8FD6;fontSize=13;fontColor=#423470;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="1040" width="540" height="180" as="geometry" />
+        <mxCell id="81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9E8FD6;fontSize=13;fontColor=#423470;spacing=8;arcSize=14;" value="・市場ニーズと成長性が高い分野&#xa;・社会的な影響力があり、長期的に価値を出せるプロダクト&#xa;・クライアント実装だけでなく、APIや仕様設計にも踏み込める環境&#xa;・技術を研究で終わらせず、サービス価値として届けられる仕事" vertex="1">
+          <mxGeometry height="180" width="540" x="1520" y="1040" as="geometry" />
         </mxCell>
-
-        <mxCell id="90" value="8. 将来ビジョン" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D7F1EE;strokeColor=#74B8AF;fontStyle=1;fontSize=17;fontColor=#18524A;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="780" y="930" width="300" height="56" as="geometry" />
+        <mxCell id="90" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D7F1EE;strokeColor=#74B8AF;fontStyle=1;fontSize=17;fontColor=#18524A;arcSize=16;" value="8. 将来ビジョン" vertex="1">
+          <mxGeometry height="56" width="300" x="780" y="930" as="geometry" />
         </mxCell>
-        <mxCell id="91" value="・まずは開発業務を軸に着実に経験と実績を積みたい&#xa;・そのうえでマネジメントにも挑戦し、将来的にはPMとしてチーム全体を牽引できる存在を目指したい" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#74B8AF;fontSize=13;fontColor=#18524A;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1000" width="520" height="150" as="geometry" />
+        <mxCell id="91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#74B8AF;fontSize=13;fontColor=#18524A;spacing=8;arcSize=14;" value="・まずは開発業務を軸に着実に経験と実績を積みたい&#xa;・そのうえでマネジメントにも挑戦し、将来的にはPMとしてチーム全体を牽引できる存在を目指したい" vertex="1">
+          <mxGeometry height="150" width="520" x="780" y="1000" as="geometry" />
         </mxCell>
-
-        <mxCell id="100" value="9. 退職理由の整理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontStyle=1;fontSize=17;fontColor=#5C4300;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="930" width="300" height="56" as="geometry" />
+        <mxCell id="100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontStyle=1;fontSize=17;fontColor=#5C4300;arcSize=16;" value="9. 退職理由の整理" vertex="1">
+          <mxGeometry height="56" width="300" x="40" y="930" as="geometry" />
         </mxCell>
-        <mxCell id="101" value="・EPARK：既存運用が中心で技術的挑戦が限られていたため、より成長できる開発環境を求めて退職&#xa;・PASCO：業務委託契約の終了に伴う退職。そのタイミングで正社員への転職を志向&#xa;・ココネ：『ポケピア』縮小方針に加え、他案件の方向性が自分の志向と異なった。個人開発ゲームの完成タイミングでもあり、退職後1か月集中してGoogle Playへリリース" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=13;fontColor=#5C4300;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1000" width="500" height="260" as="geometry" />
+        <mxCell id="101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=13;fontColor=#5C4300;spacing=8;arcSize=14;" value="・EPARK：既存運用が中心で技術的挑戦が限られていたため、より成長できる開発環境を求めて退職&#xa;・PASCO：業務委託契約の終了に伴う退職。そのタイミングで正社員への転職を志向&#xa;・ココネ：『ポケピア』縮小方針に加え、他案件の方向性が自分の志向と異なった。個人開発ゲームの完成タイミングでもあり、退職後1か月集中してGoogle Playへリリース" vertex="1">
+          <mxGeometry height="260" width="500" x="40" y="1000" as="geometry" />
         </mxCell>
-
-        <mxCell id="110" value="10. 担当領域・連携スタイル" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F4E8;strokeColor=#79B78A;fontStyle=1;fontSize=17;fontColor=#255436;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1290" width="300" height="56" as="geometry" />
+        <mxCell id="110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F4E8;strokeColor=#79B78A;fontStyle=1;fontSize=17;fontColor=#255436;arcSize=16;" value="10. 担当領域・連携スタイル" vertex="1">
+          <mxGeometry height="56" width="300" x="40" y="1290" as="geometry" />
         </mxCell>
-        <mxCell id="111" value="・スマホゲーム業界では主にクライアント側を担当してきた&#xa;・ただし新機能開発では、DB設計やAPI仕様をサーバー担当と連携しながら進めることが多い&#xa;・Web開発ではPASCOで官公庁向け施設管理システムのフロント / バック両方を一人で担当することも多かった&#xa;・体制やツール次第では、一人でフロントとバックをまとめて持つ方が効率的なケースにも柔軟に対応できる" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#79B78A;fontSize=13;fontColor=#255436;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1360" width="500" height="250" as="geometry" />
+        <mxCell id="111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#79B78A;fontSize=13;fontColor=#255436;spacing=8;arcSize=14;" value="・スマホゲーム業界では主にクライアント側を担当してきた&#xa;・ただし新機能開発では、DB設計やAPI仕様をサーバー担当と連携しながら進めることが多い&#xa;・Web開発ではPASCOで官公庁向け施設管理システムのフロント / バック両方を一人で担当することも多かった&#xa;・体制やツール次第では、一人でフロントとバックをまとめて持つ方が効率的なケースにも柔軟に対応できる" vertex="1">
+          <mxGeometry height="250" width="500" x="40" y="1360" as="geometry" />
         </mxCell>
-
-        <mxCell id="120" value="11. 成功経験・改善実績" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E7F0FF;strokeColor=#6F95D8;fontStyle=1;fontSize=17;fontColor=#22407A;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1640" width="300" height="56" as="geometry" />
+        <mxCell id="120" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E7F0FF;strokeColor=#6F95D8;fontStyle=1;fontSize=17;fontColor=#22407A;arcSize=16;" value="11. 成功経験・改善実績" vertex="1">
+          <mxGeometry height="56" width="300" x="40" y="1640" as="geometry" />
         </mxCell>
-        <mxCell id="121" value="・3D女性向け着せ替えゲームで、アイテム3Dモデルからサムネイル画像を一括生成するツールを開発&#xa;・デザイナーや企画担当から要望をヒアリングし、「大量のアイテムのサムネイルを効率よく生成したい」という課題を整理&#xa;・3Dモデルのサイズや形状に応じてカメラ位置・距離を自動調整し、正方形内で余白なく最大表示できるよう設計。見栄え向上のため照明調整機能も追加&#xa;・アジャイル開発の中で、表示方法や出力設定などの追加要望にも柔軟に対応&#xa;・結果として手作業だったサムネイル作成を自動化し、制作効率を大きく改善できた" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6F95D8;fontSize=13;fontColor=#22407A;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1710" width="500" height="350" as="geometry" />
+        <mxCell id="121" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6F95D8;fontSize=13;fontColor=#22407A;spacing=8;arcSize=14;" value="・3D女性向け着せ替えゲームで、アイテム3Dモデルからサムネイル画像を一括生成するツールを開発&#xa;・デザイナーや企画担当から要望をヒアリングし、「大量のアイテムのサムネイルを効率よく生成したい」という課題を整理&#xa;・3Dモデルのサイズや形状に応じてカメラ位置・距離を自動調整し、正方形内で余白なく最大表示できるよう設計。見栄え向上のため照明調整機能も追加&#xa;・アジャイル開発の中で、表示方法や出力設定などの追加要望にも柔軟に対応&#xa;・結果として手作業だったサムネイル作成を自動化し、制作効率を大きく改善できた" vertex="1">
+          <mxGeometry height="350" width="500" x="40" y="1710" as="geometry" />
         </mxCell>
-
-        <mxCell id="130" value="12. 苦労したこと・学び" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE4EC;strokeColor=#C97B9E;fontStyle=1;fontSize=17;fontColor=#7A274F;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1210" width="300" height="56" as="geometry" />
+        <mxCell id="130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE4EC;strokeColor=#C97B9E;fontStyle=1;fontSize=17;fontColor=#7A274F;arcSize=16;" value="12. 苦労したこと・学び" vertex="1">
+          <mxGeometry height="56" width="300" x="780" y="1210" as="geometry" />
         </mxCell>
-        <mxCell id="131" value="・個人開発ゲームではイラストや3Dモデルを外注と連携して制作&#xa;・美術面は審美感の差が出やすく、詳細仕様書を作ってもイメージがずれることがあった&#xa;・成果物を見ながら認識のずれを一つずつすり合わせ、修正を重ねる調整に苦労&#xa;・学びとして、参考イメージの共有と早い段階の対話が重要だと実感した" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C97B9E;fontSize=13;fontColor=#7A274F;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1280" width="520" height="210" as="geometry" />
+        <mxCell id="131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C97B9E;fontSize=13;fontColor=#7A274F;spacing=8;arcSize=14;" value="・個人開発ゲームではイラストや3Dモデルを外注と連携して制作&#xa;・美術面は審美感の差が出やすく、詳細仕様書を作ってもイメージがずれることがあった&#xa;・成果物を見ながら認識のずれを一つずつすり合わせ、修正を重ねる調整に苦労&#xa;・学びとして、参考イメージの共有と早い段階の対話が重要だと実感した" vertex="1">
+          <mxGeometry height="210" width="520" x="780" y="1280" as="geometry" />
         </mxCell>
-
-        <mxCell id="140" value="13. よく聞かれる質問と返答の芯" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9ECEF;strokeColor=#A2A9B0;fontStyle=1;fontSize=17;fontColor=#334155;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="1260" width="300" height="56" as="geometry" />
+        <mxCell id="140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9ECEF;strokeColor=#A2A9B0;fontStyle=1;fontSize=17;fontColor=#334155;arcSize=16;" value="13. よく聞かれる質問と返答の芯" vertex="1">
+          <mxGeometry height="56" width="300" x="1520" y="1260" as="geometry" />
         </mxCell>
-        <mxCell id="141" value="Q. なぜWebからゲームへ？&#xa;A. もともとゲーム開発への関心が強く、個人でUnity開発を続けていたため、本業でも挑戦したかった。&#xa;&#xa;Q. なぜ今ゲーム業界から転職？&#xa;A. 市場成熟と事業成長性を踏まえ、より需要と社会的影響力のある領域で力を発揮したい。&#xa;&#xa;Q. あなたの強みは？&#xa;A. Unity専門性に加え、Webとサーバー理解があり、API・DB連携を見ながら一気通貫で完遂できる点。&#xa;&#xa;Q. AIをどう活用している？&#xa;A. 現場ではコードレビュー補助や仕様チェック、個人開発ではGemini AIによる生成機能実装を経験。&#xa;&#xa;Q. 要件定義やサーバー側経験は？&#xa;A. 直接の要件定義担当ではないが、仕様整理・整合性確認・文書化を多く経験。ゲームではクライアント担当中心だが、サーバー側とDB / API仕様を連携し、Webではフロント / バック両方も担当。&#xa;&#xa;Q. 今後どんな役割を目指す？&#xa;A. まずは開発で成果を出し、その後マネジメントに挑戦し、将来的にはPMとしてチームを牽引したい。&#xa;&#xa;Q. 成功経験 / 苦労した経験は？&#xa;A. サムネイル自動生成ツールで制作効率を改善した一方、外注制作では認識合わせの重要性を学んだ。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=12;fontColor=#334155;spacing=8;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="1330" width="540" height="760" as="geometry" />
+        <mxCell id="141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=12;fontColor=#334155;spacing=8;arcSize=14;" value="Q. なぜWebからゲームへ？&lt;br&gt;A. もともとゲーム開発への関心が強く、個人でUnity開発を続けていたため、本業でも挑戦したかった。&lt;br&gt;&lt;br&gt;Q. なぜ今ゲーム業界から転職？&lt;br&gt;A. 市場成熟と事業成長性を踏まえ、より需要と社会的影響力のある領域で力を発揮したい。&lt;div&gt;今の会社でも多くの経験を積んできましたが、今後は自分のスキルをさらに幅広いIT分野や、より社会的インパクトの大きいプロジェクトで活かしたいと考えました。特に、AIやクラウド技術の進化に触れながら、自分の技術力がより多様な課題解決に役立つ領域で挑戦していきたいと思い、転職を決意しました。&lt;br&gt;&lt;br&gt;Q. あなたの強みは？&lt;br&gt;A. Unity専門性に加え、Webとサーバー理解があり、API・DB連携を見ながら一気通貫で完遂できる点。&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Q. あなたの弱みは？&lt;br&gt;A. 私の弱みは、これまでの開発経験が主に詳細設計からテストまでに集中していたため、要件定義の段階で直接お客様と話しながら要件をまとめる経験がまだ浅いことです。今後は、こうした機会があれば積極的にチャレンジしていきたいと考えています。&lt;br&gt;&lt;br&gt;Q. AIをどう活用している？&lt;br&gt;A. 現場ではコードレビュー補助や仕様チェック、個人開発ではGemini AIによる生成機能実装を経験。&lt;br&gt;&lt;br&gt;Q. 要件定義やサーバー側経験は？&lt;br&gt;A. 直接の要件定義担当ではないが、仕様整理・整合性確認・文書化を多く経験。ゲームではクライアント担当中心だが、サーバー側とDB / API仕様を連携し、Webではフロント / バック両方も担当。&lt;br&gt;&lt;br&gt;Q. 今後どんな役割を目指す？&lt;br&gt;A. まずは開発で成果を出し、その後マネジメントに挑戦し、将来的にはPMとしてチームを牽引したい。&lt;br&gt;&lt;br&gt;Q. 成功経験 / 苦労した経験は？&lt;br&gt;A. サムネイル自動生成ツールで制作効率を改善した一方、外注制作では認識合わせの重要性を学んだ。&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="760" width="940" x="1310" y="1330" as="geometry" />
         </mxCell>
-
-        <mxCell id="200" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="20">
+        <mxCell id="200" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="201" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="30">
+        <mxCell id="201" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="202" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="40">
+        <mxCell id="202" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="203" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="50">
+        <mxCell id="203" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="204" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="60">
+        <mxCell id="204" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="205" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="70">
+        <mxCell id="205" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="206" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="80">
+        <mxCell id="206" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="207" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="90">
+        <mxCell id="207" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="208" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="100">
+        <mxCell id="208" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="209" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="110">
+        <mxCell id="209" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="210" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="120">
+        <mxCell id="210" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="211" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="130">
+        <mxCell id="211" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="212" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" edge="1" parent="1" source="10" target="140">
+        <mxCell id="212" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
