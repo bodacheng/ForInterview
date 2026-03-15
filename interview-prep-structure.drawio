@@ -100,6 +100,12 @@
         <mxCell id="151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6FAE7F;fontSize=13;fontColor=#214E2F;spacing=8;arcSize=14;" value="・モバイルゲーム開発で、Unity Addressables のグループ分けが粗く、画面表示時に不要アセットまで読み込まれ、初回表示とメモリ効率に課題があった&#xa;・共通素材 / 画面専用素材 / イベント限定素材に再編し、依存関係とロード単位を整理。更新頻度も踏まえてグループ構成を見直した&#xa;・その結果、対象画面の初回表示時間を約30%短縮、メモリ使用量ピークを約15%抑制。差分配信の影響範囲も小さくなり、運用効率も改善&#xa;・原因分析から構成改善、効果確認まで回せることを示す、強みの裏づけとして使えるエピソード&#xa;・※数値は実績値に合わせて最終調整" vertex="1">
           <mxGeometry height="280" width="520" x="780" y="1600" as="geometry" />
         </mxCell>
+        <mxCell id="160" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F1FB;strokeColor=#7EA5CC;fontStyle=1;fontSize=17;fontColor=#1F4164;arcSize=16;" value="15. 志望動機（会社別）" vertex="1">
+          <mxGeometry height="56" width="320" x="1310" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="161" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7EA5CC;fontSize=12;fontColor=#1F4164;spacing=8;arcSize=14;" value="&lt;b&gt;株式会社バイク王＆カンパニー&lt;/b&gt;&lt;br&gt;・バイクの買取・販売というリユースビジネスを全国規模で展開されており、今後DXによる業務効率化や顧客体験の向上に大きな可能性があると感じている&lt;br&gt;・これまでソフトウェア開発を通じてシステム改善や機能開発に携わってきた経験を活かし、御社のDX戦略にもとづくシステム最適化や安定運用に貢献したい&lt;br&gt;・ITの力で事業成長を支える役割を担いたいと考え、志望している" vertex="1">
+          <mxGeometry height="110" width="940" x="1310" y="2180" as="geometry" />
+        </mxCell>
         <mxCell id="200" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -140,6 +146,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="213" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="214" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
