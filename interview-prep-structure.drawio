@@ -91,8 +91,14 @@
         <mxCell id="140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9ECEF;strokeColor=#A2A9B0;fontStyle=1;fontSize=17;fontColor=#334155;arcSize=16;" value="13. よく聞かれる質問と返答の芯" vertex="1">
           <mxGeometry height="56" width="300" x="1520" y="1260" as="geometry" />
         </mxCell>
-        <mxCell id="141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=12;fontColor=#334155;spacing=8;arcSize=14;" value="Q. なぜWebからゲームへ？&lt;br&gt;A. もともとゲーム開発への関心が強く、個人でUnity開発を続けていたため、本業でも挑戦したかった。&lt;br&gt;&lt;br&gt;Q. なぜ今ゲーム業界から転職？&lt;br&gt;A. 市場成熟と事業成長性を踏まえ、より需要と社会的影響力のある領域で力を発揮したい。&lt;div&gt;今の会社でも多くの経験を積んできましたが、今後は自分のスキルをさらに幅広いIT分野や、より社会的インパクトの大きいプロジェクトで活かしたいと考えました。特に、AIやクラウド技術の進化に触れながら、自分の技術力がより多様な課題解決に役立つ領域で挑戦していきたいと思い、転職を決意しました。&lt;br&gt;&lt;br&gt;Q. あなたの強みは？&lt;br&gt;A. Unity専門性に加え、Webとサーバー理解があり、API・DB連携を見ながら一気通貫で完遂できる点。&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Q. あなたの弱みは？&lt;br&gt;A. 私の弱みは、これまでの開発経験が主に詳細設計からテストまでに集中していたため、要件定義の段階で直接お客様と話しながら要件をまとめる経験がまだ浅いことです。今後は、こうした機会があれば積極的にチャレンジしていきたいと考えています。&lt;br&gt;&lt;br&gt;Q. AIをどう活用している？&lt;br&gt;A. 現場ではコードレビュー補助や仕様チェック、個人開発ではGemini AIによる生成機能実装を経験。&lt;br&gt;&lt;br&gt;Q. 要件定義やサーバー側経験は？&lt;br&gt;A. 直接の要件定義担当ではないが、仕様整理・整合性確認・文書化を多く経験。ゲームではクライアント担当中心だが、サーバー側とDB / API仕様を連携し、Webではフロント / バック両方も担当。&lt;br&gt;&lt;br&gt;Q. 今後どんな役割を目指す？&lt;br&gt;A. まずは開発で成果を出し、その後マネジメントに挑戦し、将来的にはPMとしてチームを牽引したい。&lt;br&gt;&lt;br&gt;Q. 成功経験 / 苦労した経験は？&lt;br&gt;A. サムネイル自動生成ツールで制作効率を改善した一方、外注制作では認識合わせの重要性を学んだ。&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=12;fontColor=#334155;spacing=8;arcSize=14;" value="Q. なぜWebからゲームへ？&lt;br&gt;A. もともとゲーム開発への関心が強く、個人でUnity開発を続けていたため、本業でも挑戦したかった。&lt;br&gt;&lt;br&gt;Q. なぜ今ゲーム業界から転職？&lt;br&gt;A. 市場成熟と事業成長性を踏まえ、より需要と社会的影響力のある領域で力を発揮したい。&lt;div&gt;今の会社でも多くの経験を積んできましたが、今後は自分のスキルをさらに幅広いIT分野や、より社会的インパクトの大きいプロジェクトで活かしたいと考えました。特に、AIやクラウド技術の進化に触れながら、自分の技術力がより多様な課題解決に役立つ領域で挑戦していきたいと思い、転職を決意しました。&lt;br&gt;&lt;br&gt;Q. あなたの強みは？&lt;br&gt;A. Unity専門性に加え、Webとサーバー理解があり、API・DB連携を見ながら一気通貫で完遂できる点。&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Q. あなたの弱みは？&lt;br&gt;A. 私の弱みは、これまでの開発経験が主に詳細設計からテストまでに集中していたため、要件定義の段階で直接お客様と話しながら要件をまとめる経験がまだ浅いことです。今後は、こうした機会があれば積極的にチャレンジしていきたいと考えています。&lt;br&gt;&lt;br&gt;Q. AIをどう活用している？&lt;br&gt;A. 現場ではコードレビュー補助や仕様チェック、個人開発ではGemini AIによる生成機能実装を経験。&lt;br&gt;&lt;br&gt;Q. 要件定義やサーバー側経験は？&lt;br&gt;A. 直接の要件定義担当ではないが、仕様整理・整合性確認・文書化を多く経験。ゲームではクライアント担当中心だが、サーバー側とDB / API仕様を連携し、Webではフロント / バック両方も担当。&lt;br&gt;&lt;br&gt;Q. パフォーマンス改善の具体例は？&lt;br&gt;A. Unity Addressables のグループ構成を見直し、不要アセットの同時読み込みを減らすことで、対象画面の初回表示時間とメモリ効率を改善した。&lt;br&gt;&lt;br&gt;Q. 今後どんな役割を目指す？&lt;br&gt;A. まずは開発で成果を出し、その後マネジメントに挑戦し、将来的にはPMとしてチームを牽引したい。&lt;br&gt;&lt;br&gt;Q. 成功経験 / 苦労した経験は？&lt;br&gt;A. サムネイル自動生成ツールや Addressables 改善で制作・表示効率を高めた一方、外注制作では認識合わせの重要性を学んだ。&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="760" width="940" x="1310" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#6FAE7F;fontStyle=1;fontSize=17;fontColor=#214E2F;arcSize=16;" value="14. 強みの証拠・定量エピソード" vertex="1">
+          <mxGeometry height="56" width="360" x="780" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6FAE7F;fontSize=13;fontColor=#214E2F;spacing=8;arcSize=14;" value="・モバイルゲーム開発で、Unity Addressables のグループ分けが粗く、画面表示時に不要アセットまで読み込まれ、初回表示とメモリ効率に課題があった&#xa;・共通素材 / 画面専用素材 / イベント限定素材に再編し、依存関係とロード単位を整理。更新頻度も踏まえてグループ構成を見直した&#xa;・その結果、対象画面の初回表示時間を約30%短縮、メモリ使用量ピークを約15%抑制。差分配信の影響範囲も小さくなり、運用効率も改善&#xa;・原因分析から構成改善、効果確認まで回せることを示す、強みの裏づけとして使えるエピソード&#xa;・※数値は実績値に合わせて最終調整" vertex="1">
+          <mxGeometry height="280" width="520" x="780" y="1600" as="geometry" />
         </mxCell>
         <mxCell id="200" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="20">
           <mxGeometry relative="1" as="geometry" />
@@ -131,6 +137,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="212" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="213" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="150">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
