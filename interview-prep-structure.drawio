@@ -64,6 +64,12 @@
         <mxCell id="91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#74B8AF;fontSize=13;fontColor=#18524A;arcSize=14;" value="・まずは開発業務を軸に着実に経験と実績を積みたい&#xa;・そのうえでマネジメントにも挑戦し、将来的にはPMとしてチーム全体を牽引できる存在を目指したい" vertex="1">
           <mxGeometry height="150" width="540" x="660" y="1040" as="geometry" />
         </mxCell>
+        <mxCell id="160" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#EAF1E7;strokeColor=#7FA06E;fontStyle=1;fontSize=17;fontColor=#2E5234;arcSize=16;" value="15. 日本に来た理由・日本で働きたい理由" vertex="1">
+          <mxGeometry height="56" width="380" x="660" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="161" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#7FA06E;fontSize=13;fontColor=#2E5234;arcSize=14;" value="・日本の大学院で学びながら技術力を高めたいと思い来日した&#xa;・これまで日本の職場では、皆がお互いに助け合って働いていると感じており、そのような文化に強く魅力を感じている&#xa;・加えて、日本企業の品質に対する考え方にも共感しており、細部まで責任を持って仕上げる姿勢は自分の仕事観とも合っている&#xa;・今後も日本で、協力し合いながら品質とユーザー価値の両方を大切にする環境でエンジニアとして貢献したい" vertex="1">
+          <mxGeometry height="220" width="540" x="660" y="1300" as="geometry" />
+        </mxCell>
         <mxCell id="50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#CFEED7;strokeColor=#7FC28F;fontStyle=1;fontSize=17;fontColor=#1E4D2B;arcSize=16;" value="4. 強み・差別化" vertex="1">
           <mxGeometry height="56" width="320" x="1280" y="380" as="geometry" />
         </mxCell>
@@ -85,8 +91,8 @@
         <mxCell id="60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#FDE7CC;strokeColor=#D9A25F;fontStyle=1;fontSize=17;fontColor=#6A4517;arcSize=16;" value="5. AI活用・新技術" vertex="1">
           <mxGeometry height="56" width="320" x="1900" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#D9A25F;fontSize=13;fontColor=#6A4517;arcSize=14;" value="・現場ではAIをコードレビュー補助や仕様書の設計チェックに活用し、見落としやすい点を早期把握している&#xa;・個人開発ではGemini AIをゲームアプリに実装し、小さなストーリーやイラスト生成機能を開発&#xa;・新技術を研究で終わらせず、サービスやビジネス価値として届けたいという志向につながっている" vertex="1">
-          <mxGeometry height="220" width="540" x="1900" y="450" as="geometry" />
+        <mxCell id="61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#D9A25F;fontSize=13;fontColor=#6A4517;arcSize=14;" value="・最近はAIとクラウド技術を中心に学んでいる&#xa;・具体的には、AI APIの活用や Azure などのクラウドインフラを使ったアプリケーション開発に力を入れている&#xa;・個人開発ではGemini AIをゲームアプリに実装し、小さなストーリーやイラスト生成機能も試してきた&#xa;・AIを組み込んだアプリや、スケーラブルなクラウドベースのシステムをプロトタイプとして構築しながら、新技術を実践的に習得している" vertex="1">
+          <mxGeometry height="260" width="540" x="1900" y="450" as="geometry" />
         </mxCell>
         <mxCell id="70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#DDEBF7;strokeColor=#6E9FCC;fontStyle=1;fontSize=17;fontColor=#224B76;arcSize=16;" value="6. 要件理解・仕様整理" vertex="1">
           <mxGeometry height="56" width="320" x="1900" y="710" as="geometry" />
@@ -146,6 +152,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="212" edge="1" parent="1" source="110" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#79B78A;strokeWidth=2;" target="130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="213" edge="1" parent="1" source="90" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#74B8AF;strokeWidth=2;" target="160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
@@ -242,10 +251,10 @@
         <mxCell id="26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#7EA5CC;fontSize=13;fontColor=#1F4164;arcSize=14;" value="1分版の整理&#xa;【事業理解】&#xa;・バイクの買取・販売というリユースビジネスを全国規模で展開している&#xa;・DXによる業務効率化と顧客体験向上の余地が大きいと感じている&#xa;&#xa;【経験接続】&#xa;・これまでソフトウェア開発を通じてシステム改善や機能開発に携わってきた&#xa;・クライアント実装だけでなく、API、DB、仕様整理、安定運用にも関われる&#xa;・改善テーマを見つけ、実装から効果確認まで回せるのが強み&#xa;&#xa;【入社後の貢献】&#xa;・御社のDX戦略にもとづくシステム最適化や安定運用に貢献したい&#xa;・ITの力で事業成長を支える役割を担いたい&#xa;&#xa;【懸念潰し】&#xa;・ゲーム業界出身だが、運用改善、性能改善、ユーザー体験最適化の経験は事業会社DXにも応用可能&#xa;&#xa;【逆質問】&#xa;・2025年12月からのDX戦略を推進する組織について、具体的にどのようなミッションや目標を持った組織なのか&#xa;・その中で、自分がプレイングマネージャーとして関わる場合、最初の半年から1年で特に期待される成果や役割はどのようなイメージか" vertex="1">
           <mxGeometry height="500" width="860" x="1450" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#E9ECEF;strokeColor=#A2A9B0;fontStyle=1;fontSize=17;fontColor=#334155;arcSize=16;" value="追加用テンプレート" vertex="1">
-          <mxGeometry height="56" width="300" x="40" y="540" as="geometry" />
+        <mxCell id="27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#E8F1FB;strokeColor=#7EA5CC;fontStyle=1;fontSize=17;fontColor=#1F4164;arcSize=16;" value="GMOインターネット株式会社" vertex="1">
+          <mxGeometry height="56" width="420" x="40" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=13;fontColor=#334155;arcSize=14;" value="会社名&#xa;【事業理解】&#xa;・その会社の事業構造 / 顧客 / 強み&#xa;・なぜ今その会社に魅力を感じるのか&#xa;&#xa;【志望動機】&#xa;・会社の魅力と自分の志向をどう接続するか&#xa;・その会社でなければならない理由&#xa;&#xa;【経験接続】&#xa;・必須要件に直結する経験&#xa;・歓迎要件に近い経験&#xa;・入社後に活かせる改善実績&#xa;&#xa;【懸念潰し】&#xa;・業界未経験、役割変更、技術ギャップにどう答えるか&#xa;&#xa;【逆質問】&#xa;・現場課題、期待役割、立ち上がり、評価基準" vertex="1">
+        <mxCell id="28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#7EA5CC;fontSize=13;fontColor=#1F4164;arcSize=14;" value="1分版の整理&#xa;【ポジション】&#xa;・Webアプリケーション開発エンジニア&#xa;&#xa;【事業理解】&#xa;・ドメイン、クラウド、レンタルサーバーなど、インターネットサービスの基盤を支える事業を幅広く展開している&#xa;・多くの企業やユーザーのサービス運営を支えており、社会的な影響範囲が大きい点に魅力を感じている&#xa;&#xa;【志望動機】&#xa;・インターネットインフラは社会的ニーズが高く、今後も成長が期待される分野だと考えている&#xa;・その領域で自分のエンジニア経験を活かし、より多くのユーザーや社会に価値を提供できるサービス開発に携わりたい&#xa;&#xa;【経験接続】&#xa;・これまでの開発経験で培った技術力を活かし、Webアプリケーション開発を通じて貢献したい&#xa;&#xa;【入社後の貢献】&#xa;・インターネットインフラ領域で強い実績を持つ御社で、サービス価値向上や安定した運営を支える開発に携わりたい" vertex="1">
           <mxGeometry height="460" width="900" x="40" y="610" as="geometry" />
         </mxCell>
         <mxCell id="29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FDE7CC;strokeColor=#D9A25F;fontSize=13;fontColor=#6A4517;arcSize=14;" value="面接前の最終確認&#xa;・この会社で話す強みは何か&#xa;・懸念を先回りしてどう返すか&#xa;・逆質問を2つに絞れているか&#xa;・主線整理の内容と矛盾がないか" vertex="1">
@@ -291,6 +300,12 @@
         </mxCell>
         <mxCell id="25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#9E8FD6;fontSize=13;fontColor=#423470;arcSize=14;" value="・人事向け：一貫性、転職理由、安定性を強める&#xa;・現場向け：技術深度、再現性、改善プロセスを強める&#xa;・役員向け：事業接続、成長余地、期待役割を強める" vertex="1">
           <mxGeometry height="220" width="460" x="1760" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#E8F1FB;strokeColor=#7EA5CC;fontStyle=1;fontSize=17;fontColor=#1F4164;arcSize=16;" value="追加質問" vertex="1">
+          <mxGeometry height="56" width="260" x="1760" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#7EA5CC;fontSize=13;fontColor=#1F4164;arcSize=14;" value="Q. なぜ日本に来たのですか？&#xa;A. 日本の大学院で学びながら技術力を高めたいと考えて来日しました。実際に生活と仕事を通じて、日本の働き方や価値観への理解も深まりました。&#xa;&#xa;Q. これからも日本で働きたい理由は？&#xa;A. これまで日本の職場では、皆がお互いに助け合って働いていると感じており、そのような文化がとても好きだからです。加えて、日本企業の品質に対する考え方にも共感しており、自分の仕事観ともよく合っています。&#xa;&#xa;Q. これからエンジニアとしてAIとの付き合い方についてどう思いますか？&#xa;A. エンジニアとしてAIとうまく付き合うためには、単に活用するだけではなく、技術の継続的な勉強を重視しながら、AIを正しく、そして責任を持って使うことが必要だと思います。&#xa;&#xa;Q. 最近どんな新しい技術を勉強していますか？&#xa;A. 最近は、AIとクラウド技術を中心に学んでいます。具体的には、AI APIの活用や、Azure などのクラウドインフラを使ったアプリケーション開発に力を入れています。特に、AIを組み込んだアプリや、スケーラブルなクラウドベースのシステムを実際にプロトタイプとして構築しながら、最新技術の習得に励んでいます。" vertex="1">
+          <mxGeometry height="560" width="460" x="1760" y="1310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
