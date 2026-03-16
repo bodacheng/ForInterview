@@ -159,10 +159,10 @@
         <mxCell id="2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1;fontColor=#17324D;" value="ダイセイ 面接対策マップ&#xa;2. 360度対策" vertex="1">
           <mxGeometry height="56" width="760" x="20" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#4F657A;" value="このページは、面接官別の評価軸、選考フェーズ、深掘り質問、懸念潰し、逆質問までを管理するページです。&#xa;主線整理の内容を、どの相手にどう見せるかへ変換する役割を持たせています。" vertex="1">
+        <mxCell id="3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#4F657A;" value="このページは、面接官別の評価軸、選考フェーズ、深掘り質問、懸念潰し、逆質問を管理するページです。&#xa;よくある質問は 4. よくある質問 に切り出し、主線整理の内容をどの相手にどう見せるかへ変換する役割に集中させています。" vertex="1">
           <mxGeometry height="50" width="1200" x="20" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F7FA;strokeColor=#C2CBD6;fontSize=13;fontColor=#425466;spacing=8;arcSize=14;" value="運用ルール&#xa;同じ経験でも、人事には一貫性、現場には再現性、マネージャーには事業との接続で語り方を変える。&#xa;面接前は、このページで抜け漏れを確認してから 1. 主線整理 と 3. 会社別カード を最終調整する。" vertex="1">
+        <mxCell id="10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F7FA;strokeColor=#C2CBD6;fontSize=13;fontColor=#425466;spacing=8;arcSize=14;" value="運用ルール&#xa;同じ経験でも、人事には一貫性、現場には再現性、マネージャーには事業との接続で語り方を変える。&#xa;面接前は、このページで抜け漏れを確認してから 1. 主線整理、3. 会社別カード、4. よくある質問 を最終調整する。" vertex="1">
           <mxGeometry height="92" width="900" x="1320" y="30" as="geometry" />
         </mxCell>
         <mxCell id="16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF3FB;strokeColor=#8AB6D6;fontStyle=1;fontSize=17;fontColor=#17324D;arcSize=16;" value="16. 面接官別評価軸" vertex="1">
@@ -189,11 +189,11 @@
         <mxCell id="23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9A25F;fontSize=13;fontColor=#6A4517;spacing=8;arcSize=14;" value="・設計判断：なぜその構成にしたか、代替案と比較して説明できるようにする&#xa;・性能改善：Addressables、ロード時間、メモリ、表示速度の改善を語れるようにする&#xa;・品質：テスト観点、レビュー、リグレッション防止策を整理する&#xa;・障害対応：原因切り分け、再現、暫定対応、恒久対応の順で話せるようにする&#xa;・サーバー連携：API仕様、DB設計、責務分離の考え方をまとめる" vertex="1">
           <mxGeometry height="320" width="520" x="1750" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9ECEF;strokeColor=#A2A9B0;fontStyle=1;fontSize=17;fontColor=#334155;arcSize=16;" value="13. よく聞かれる質問と返答の芯" vertex="1">
+        <mxCell id="130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9ECEF;strokeColor=#A2A9B0;fontStyle=1;fontSize=17;fontColor=#334155;arcSize=16;" value="13. よくある質問は別ページへ" vertex="1">
           <mxGeometry height="56" width="360" x="40" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=12;fontColor=#334155;spacing=8;arcSize=14;" value="Q. なぜWebからゲームへ？&#xa;A. もともとゲーム開発への関心が強く、個人でUnity開発を続けていたため、本業でも挑戦したかった。&#xa;&#xa;Q. なぜ今ゲーム業界から転職？&#xa;A. 市場成熟と事業成長性を踏まえ、より需要と社会的影響力のある領域で力を発揮したい。今の会社でも多くの経験を積んできたが、今後は自分のスキルをさらに幅広いIT分野や、より社会的インパクトの大きいプロジェクトで活かしたい。特にAIやクラウド技術の進化に触れながら、自分の技術力が多様な課題解決に役立つ領域で挑戦していきたい。&#xa;&#xa;Q. あなたの強みは？&#xa;A. Unity専門性に加え、Webとサーバー理解があり、API・DB連携を見ながら一気通貫で完遂できる点。&#xa;&#xa;Q. あなたの弱みは？&#xa;A. これまでの経験が主に詳細設計からテストまでに集中していたため、要件定義の段階で直接お客様と話しながら要件をまとめる経験はまだ浅い。ただし仕様整理、整合性確認、実装可能性への落とし込みは多く担ってきた。&#xa;&#xa;Q. ゲーム業界からWeb開発へ移るうえで、技術差は問題ない？&#xa;A. 確かに使う技術や業務知識には違いがあるが、以前も官公庁向け施設管理システム開発に入った際、当時はほとんど触れたことのない技術を業務と並行して学び、比較的短期間で慣れることができた。自分は開発目標を持ち、実装しながら必要な技術を学ぶスタイルが合っているため、新しい技術領域へのキャッチアップには自信がある。&#xa;&#xa;Q. AIをどう活用している？&#xa;A. 現場ではコードレビュー補助や仕様チェック、個人開発ではGemini AIによる生成機能実装を経験。&#xa;&#xa;Q. 要件定義やサーバー側経験は？&#xa;A. 直接の要件定義担当ではないが、仕様整理・整合性確認・文書化を多く経験。ゲームではクライアント担当中心だが、サーバー側とDB / API仕様を連携し、Webではフロント / バック両方も担当。&#xa;&#xa;Q. パフォーマンス改善の具体例は？&#xa;A. Unity Addressables のグループ構成を見直し、不要アセットの同時読み込みを減らすことで、対象画面の初回表示時間とメモリ効率を改善した。&#xa;&#xa;Q. リーダーシップや調整経験は？&#xa;A. デザイナーや企画、外注先と認識をそろえながら課題を整理し、実装や改善策に落とし込んだ経験がある。&#xa;&#xa;Q. 失敗や学びは？&#xa;A. 外注制作では詳細仕様を書いてもイメージのずれが起きたため、参考イメージの共有と早い段階の対話が重要だと学んだ。&#xa;&#xa;Q. 今後どんな役割を目指す？&#xa;A. まずは開発で成果を出し、その後マネジメントに挑戦し、将来的にはPMとしてチームを牽引したい。&#xa;&#xa;Q. 成功経験 / 苦労した経験は？&#xa;A. サムネイル自動生成ツールや Addressables 改善で制作・表示効率を高めた一方、外注制作では認識合わせの重要性を学んだ。" vertex="1">
-          <mxGeometry height="980" width="1220" x="40" y="700" as="geometry" />
+        <mxCell id="131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=12;fontColor=#334155;spacing=8;arcSize=14;" value="・頻出質問と返答の詳細は 4. よくある質問 ページに移設&#xa;・このページでは、評価軸、懸念潰し、逆質問、実務条件の整理に集中する&#xa;・面接前は 1. 主線整理 と 4. よくある質問 をセットで確認する" vertex="1">
+          <mxGeometry height="130" width="520" x="40" y="700" as="geometry" />
         </mxCell>
         <mxCell id="140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontStyle=1;fontSize=17;fontColor=#5C4300;arcSize=16;" value="20. 懸念潰し" vertex="1">
           <mxGeometry height="56" width="260" x="1300" y="630" as="geometry" />
@@ -250,6 +250,47 @@
         </mxCell>
         <mxCell id="29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDE7CC;strokeColor=#D9A25F;fontSize=13;fontColor=#6A4517;spacing=8;arcSize=14;" value="面接前の最終確認&#xa;・この会社で話す強みは何か&#xa;・懸念を先回りしてどう返すか&#xa;・逆質問を2つに絞れているか&#xa;・主線整理の内容と矛盾がないか" vertex="1">
           <mxGeometry height="220" width="520" x="980" y="760" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="faq-bank" name="4. よくある質問">
+    <mxGraphModel dx="1216" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="1900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1;fontColor=#17324D;" value="ダイセイ 面接対策マップ&#xa;4. よくある質問" vertex="1">
+          <mxGeometry x="20" y="20" width="760" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#4F657A;" value="頻出質問と返答を単独ページで管理します。&#xa;主線整理の内容をベースに、30秒版、1分版、深掘り版へ展開できるようにしておくページです。" vertex="1">
+          <mxGeometry x="20" y="80" width="1120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F7FA;strokeColor=#C2CBD6;fontSize=13;fontColor=#425466;spacing=8;arcSize=14;" value="使い方&#xa;・最初に結論、その後に理由と具体例を置く&#xa;・30秒版、1分版、深掘り版の3段階で答えられるようにする&#xa;・会社ごとに刺さる表現は 3. 会社別カード 側で微調整する" vertex="1">
+          <mxGeometry x="1320" y="30" width="900" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9ECEF;strokeColor=#A2A9B0;fontStyle=1;fontSize=17;fontColor=#334155;arcSize=16;" value="13. よく聞かれる質問と返答の芯" vertex="1">
+          <mxGeometry x="40" y="180" width="360" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=12;fontColor=#334155;spacing=8;arcSize=14;" value="Q. なぜWebからゲームへ？&#xa;A. もともとゲーム開発への関心が強く、個人でUnity開発を続けていたため、本業でも挑戦したかった。&#xa;&#xa;Q. なぜ今ゲーム業界から転職？&#xa;A. 市場成熟と事業成長性を踏まえ、より需要と社会的影響力のある領域で力を発揮したい。今の会社でも多くの経験を積んできたが、今後は自分のスキルをさらに幅広いIT分野や、より社会的インパクトの大きいプロジェクトで活かしたい。特にAIやクラウド技術の進化に触れながら、自分の技術力が多様な課題解決に役立つ領域で挑戦していきたい。&#xa;&#xa;Q. あなたの強みは？&#xa;A. Unity専門性に加え、Webとサーバー理解があり、API・DB連携を見ながら一気通貫で完遂できる点。&#xa;&#xa;Q. あなたの弱みは？&#xa;A. これまでの経験が主に詳細設計からテストまでに集中していたため、要件定義の段階で直接お客様と話しながら要件をまとめる経験はまだ浅い。ただし仕様整理、整合性確認、実装可能性への落とし込みは多く担ってきた。&#xa;&#xa;Q. ゲーム業界からWeb開発へ移るうえで、技術差は問題ない？&#xa;A. 確かに使う技術や業務知識には違いがあるが、以前も官公庁向け施設管理システム開発に入った際、当時はほとんど触れたことのない技術を業務と並行して学び、比較的短期間で慣れることができた。自分は開発目標を持ち、実装しながら必要な技術を学ぶスタイルが合っているため、新しい技術領域へのキャッチアップには自信がある。&#xa;&#xa;Q. AIをどう活用している？&#xa;A. 現場ではコードレビュー補助や仕様チェック、個人開発ではGemini AIによる生成機能実装を経験。&#xa;&#xa;Q. 要件定義やサーバー側経験は？&#xa;A. 直接の要件定義担当ではないが、仕様整理・整合性確認・文書化を多く経験。ゲームではクライアント担当中心だが、サーバー側とDB / API仕様を連携し、Webではフロント / バック両方も担当。&#xa;&#xa;Q. パフォーマンス改善の具体例は？&#xa;A. Unity Addressables のグループ構成を見直し、不要アセットの同時読み込みを減らすことで、対象画面の初回表示時間とメモリ効率を改善した。&#xa;&#xa;Q. リーダーシップや調整経験は？&#xa;A. デザイナーや企画、外注先と認識をそろえながら課題を整理し、実装や改善策に落とし込んだ経験がある。&#xa;&#xa;Q. 失敗や学びは？&#xa;A. 外注制作では詳細仕様を書いてもイメージのずれが起きたため、参考イメージの共有と早い段階の対話が重要だと学んだ。&#xa;&#xa;Q. 今後どんな役割を目指す？&#xa;A. まずは開発で成果を出し、その後マネジメントに挑戦し、将来的にはPMとしてチームを牽引したい。&#xa;&#xa;Q. 成功経験 / 苦労した経験は？&#xa;A. サムネイル自動生成ツールや Addressables 改善で制作・表示効率を高めた一方、外注制作では認識合わせの重要性を学んだ。" vertex="1">
+          <mxGeometry x="40" y="250" width="1680" height="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF3FB;strokeColor=#8AB6D6;fontStyle=1;fontSize=17;fontColor=#17324D;arcSize=16;" value="回答の型" vertex="1">
+          <mxGeometry x="1760" y="250" width="300" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8AB6D6;fontSize=13;fontColor=#17324D;spacing=8;arcSize=14;" value="・結論から話す&#xa;・理由を短く添える&#xa;・具体例を1つ入れる&#xa;・最後に再現性や今後の活かし方へつなげる" vertex="1">
+          <mxGeometry x="1760" y="320" width="460" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontStyle=1;fontSize=17;fontColor=#5C4300;arcSize=16;" value="更新メモ" vertex="1">
+          <mxGeometry x="1760" y="580" width="260" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=13;fontColor=#5C4300;spacing=8;arcSize=14;" value="・新しい会社の面接で聞かれた質問をここへ追記する&#xa;・会社固有の表現は 3. 会社別カード 側で管理する&#xa;・数字や実績は最新の実態に合わせて更新する" vertex="1">
+          <mxGeometry x="1760" y="650" width="460" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5E0F7;strokeColor=#9E8FD6;fontStyle=1;fontSize=17;fontColor=#423470;arcSize=16;" value="使い分け" vertex="1">
+          <mxGeometry x="1760" y="910" width="260" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9E8FD6;fontSize=13;fontColor=#423470;spacing=8;arcSize=14;" value="・人事向け：一貫性、転職理由、安定性を強める&#xa;・現場向け：技術深度、再現性、改善プロセスを強める&#xa;・役員向け：事業接続、成長余地、期待役割を強める" vertex="1">
+          <mxGeometry x="1760" y="980" width="460" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
