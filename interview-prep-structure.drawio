@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="matrix-360" name="2. 360度対策">
-    <mxGraphModel dx="2211" dy="1355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="1900" math="0" shadow="0">
+    <mxGraphModel dx="2702" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="1900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,39 +217,39 @@
     </mxGraphModel>
   </diagram>
   <diagram id="company-cards" name="3. 会社別カード">
-    <mxGraphModel dx="1216" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="2027" dy="1242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1;fontColor=#17324D;" value="ダイセイ 面接対策マップ&#xa;3. 会社別カード" vertex="1">
-          <mxGeometry x="20" y="20" width="760" height="56" as="geometry" />
+          <mxGeometry height="56" width="760" x="20" y="20" as="geometry" />
         </mxCell>
         <mxCell id="3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#4F657A;" value="1社につき1カードで、事業理解、志望動機、経験接続、懸念潰し、逆質問をまとめるページです。&#xa;面接前は、このページで会社固有の話題だけを更新すればよい状態を目指します。" vertex="1">
-          <mxGeometry x="20" y="80" width="1200" height="50" as="geometry" />
+          <mxGeometry height="50" width="1200" x="20" y="80" as="geometry" />
         </mxCell>
         <mxCell id="15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F1FB;strokeColor=#7EA5CC;fontStyle=1;fontSize=17;fontColor=#1F4164;arcSize=16;" value="15. 志望動機（会社別）" vertex="1">
-          <mxGeometry x="40" y="180" width="320" height="56" as="geometry" />
+          <mxGeometry height="56" width="320" x="40" y="180" as="geometry" />
         </mxCell>
         <mxCell id="23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F7FA;strokeColor=#C2CBD6;fontSize=13;fontColor=#425466;spacing=8;arcSize=14;" value="会社カードの使い方&#xa;・事業理解 → 志望動機 → 経験接続 → 懸念潰し → 逆質問 の順で整理する&#xa;・志望動機は 30秒版 と 1分版 の両方を用意する&#xa;・求人票の必須要件に対応する経験をカード内で明示する&#xa;・面接前に、会社ごとのキーワードを3つだけ言語化しておく" vertex="1">
-          <mxGeometry x="40" y="260" width="560" height="200" as="geometry" />
+          <mxGeometry height="200" width="560" x="40" y="260" as="geometry" />
         </mxCell>
         <mxCell id="24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F1FB;strokeColor=#7EA5CC;fontStyle=1;fontSize=17;fontColor=#1F4164;arcSize=16;" value="株式会社バイク王＆カンパニー" vertex="1">
-          <mxGeometry x="660" y="180" width="500" height="56" as="geometry" />
+          <mxGeometry height="56" width="500" x="660" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7EA5CC;fontSize=12;fontColor=#1F4164;spacing=8;arcSize=14;" value="30秒版の志望動機&#xa;私が御社を志望した理由は、バイクの買取・販売というリユースビジネスを全国規模で展開されており、今後DXによる業務効率化や顧客体験の向上に大きな可能性があると感じたためです。これまで私はソフトウェア開発を通じてシステム改善や機能開発に携わってきました。その経験を活かし、御社のDX戦略にもとづくシステムの最適化や安定運用に貢献し、ITの力で事業の成長を支える役割を担いたいと考え、志望いたしました。" vertex="1">
-          <mxGeometry x="660" y="250" width="760" height="220" as="geometry" />
+        <mxCell id="25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7EA5CC;fontSize=12;fontColor=#1F4164;spacing=8;arcSize=14;" value="30秒版の志望動機&lt;br&gt;1.私が御社を志望した理由は、バイクの買取・販売というリユースビジネスを全国規模で展開されており、今後DXによる業務効率化や顧客体験の向上に大きな可能性があると感じたためです。&lt;div&gt;2.これまで私はソフトウェア開発を通じてシステム改善や機能開発に携わってきました。その経験を活かし、御社のDX戦略にもとづくシステムの最適化や安定運用に貢献し、ITの力で事業の成長を支える役割を担いたいと考え、志望いたしました。&lt;/div&gt;" vertex="1">
+          <mxGeometry height="220" width="760" x="660" y="250" as="geometry" />
         </mxCell>
         <mxCell id="26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7EA5CC;fontSize=13;fontColor=#1F4164;spacing=8;arcSize=14;" value="1分版の整理&#xa;【事業理解】&#xa;・バイクの買取・販売というリユースビジネスを全国規模で展開している&#xa;・DXによる業務効率化と顧客体験向上の余地が大きいと感じている&#xa;&#xa;【経験接続】&#xa;・これまでソフトウェア開発を通じてシステム改善や機能開発に携わってきた&#xa;・クライアント実装だけでなく、API、DB、仕様整理、安定運用にも関われる&#xa;・改善テーマを見つけ、実装から効果確認まで回せるのが強み&#xa;&#xa;【入社後の貢献】&#xa;・御社のDX戦略にもとづくシステム最適化や安定運用に貢献したい&#xa;・ITの力で事業成長を支える役割を担いたい&#xa;&#xa;【懸念潰し】&#xa;・ゲーム業界出身だが、運用改善、性能改善、ユーザー体験最適化の経験は事業会社DXにも応用可能&#xa;&#xa;【逆質問】&#xa;・2025年12月からのDX戦略を推進する組織について、具体的にどのようなミッションや目標を持った組織なのか&#xa;・その中で、自分がプレイングマネージャーとして関わる場合、最初の半年から1年で特に期待される成果や役割はどのようなイメージか" vertex="1">
-          <mxGeometry x="1450" y="180" width="860" height="500" as="geometry" />
+          <mxGeometry height="500" width="860" x="1450" y="180" as="geometry" />
         </mxCell>
         <mxCell id="27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9ECEF;strokeColor=#A2A9B0;fontStyle=1;fontSize=17;fontColor=#334155;arcSize=16;" value="追加用テンプレート" vertex="1">
-          <mxGeometry x="40" y="540" width="300" height="56" as="geometry" />
+          <mxGeometry height="56" width="300" x="40" y="540" as="geometry" />
         </mxCell>
         <mxCell id="28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A2A9B0;fontSize=13;fontColor=#334155;spacing=8;arcSize=14;" value="会社名&#xa;【事業理解】&#xa;・その会社の事業構造 / 顧客 / 強み&#xa;・なぜ今その会社に魅力を感じるのか&#xa;&#xa;【志望動機】&#xa;・会社の魅力と自分の志向をどう接続するか&#xa;・その会社でなければならない理由&#xa;&#xa;【経験接続】&#xa;・必須要件に直結する経験&#xa;・歓迎要件に近い経験&#xa;・入社後に活かせる改善実績&#xa;&#xa;【懸念潰し】&#xa;・業界未経験、役割変更、技術ギャップにどう答えるか&#xa;&#xa;【逆質問】&#xa;・現場課題、期待役割、立ち上がり、評価基準" vertex="1">
-          <mxGeometry x="40" y="610" width="900" height="460" as="geometry" />
+          <mxGeometry height="460" width="900" x="40" y="610" as="geometry" />
         </mxCell>
         <mxCell id="29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDE7CC;strokeColor=#D9A25F;fontSize=13;fontColor=#6A4517;spacing=8;arcSize=14;" value="面接前の最終確認&#xa;・この会社で話す強みは何か&#xa;・懸念を先回りしてどう返すか&#xa;・逆質問を2つに絞れているか&#xa;・主線整理の内容と矛盾がないか" vertex="1">
-          <mxGeometry x="980" y="760" width="520" height="220" as="geometry" />
+          <mxGeometry height="220" width="520" x="980" y="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
