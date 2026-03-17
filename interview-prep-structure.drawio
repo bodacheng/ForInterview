@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" compressed="false" version="29.6.3" pages="4">
   <diagram id="master-story" name="1. 主線整理">
-    <mxGraphModel dx="1216" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="2100" math="0" shadow="0">
+    <mxGraphModel dx="1280" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="2100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#E5E0F7;strokeColor=#9E8FD6;fontStyle=1;fontSize=17;fontColor=#423470;arcSize=16;" value="7. 転職の軸" vertex="1">
           <mxGeometry height="56" width="320" x="660" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#9E8FD6;fontSize=13;fontColor=#423470;arcSize=14;" value="・市場ニーズと成長性が高い分野&#xa;・社会的な影響力があり、長期的に価値を出せるプロダクト&#xa;・クライアント実装だけでなく、APIや仕様設計にも踏み込める環境&#xa;・技術を研究で終わらせず、サービス価値として届けられる仕事" vertex="1">
+        <mxCell id="81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#9E8FD6;fontSize=13;fontColor=#423470;arcSize=14;" value="・市場ニーズと成長性が高い分野&lt;br&gt;・社会的な影響力があり、長期的に価値を出せるプロダクト&lt;br&gt;・クライアント実装だけでなく、APIや仕様設計にも踏み込める環境" vertex="1">
           <mxGeometry height="180" width="540" x="660" y="730" as="geometry" />
         </mxCell>
         <mxCell id="90" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#D7F1EE;strokeColor=#74B8AF;fontStyle=1;fontSize=17;fontColor=#18524A;arcSize=16;" value="8. 将来ビジョン" vertex="1">
@@ -67,7 +67,7 @@
         <mxCell id="160" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#EAF1E7;strokeColor=#7FA06E;fontStyle=1;fontSize=17;fontColor=#2E5234;arcSize=16;" value="15. 日本に来た理由・日本で働きたい理由" vertex="1">
           <mxGeometry height="56" width="380" x="660" y="1230" as="geometry" />
         </mxCell>
-        <mxCell id="161" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#7FA06E;fontSize=13;fontColor=#2E5234;arcSize=14;" value="・日本の大学院で学びながら技術力を高めたいと思い来日した&#xa;・これまで日本の職場では、皆がお互いに助け合って働いていると感じており、そのような文化に強く魅力を感じている&#xa;・加えて、日本企業の品質に対する考え方にも共感しており、細部まで責任を持って仕上げる姿勢は自分の仕事観とも合っている&#xa;・今後も日本で、協力し合いながら品質とユーザー価値の両方を大切にする環境でエンジニアとして貢献したい" vertex="1">
+        <mxCell id="161" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#7FA06E;fontSize=13;fontColor=#2E5234;arcSize=14;" value="&lt;br&gt;・これまで日本の職場では、皆がお互いに助け合って働いていると感じており、そのような文化に強く魅力を感じている&lt;br&gt;・加えて、日本企業の品質に対する考え方にも共感しており、細部まで責任を持って仕上げる姿勢は自分の仕事観とも合っている&lt;br&gt;・今後も日本で、協力し合いながら品質とユーザー価値の両方を大切にする環境でエンジニアとして貢献したい" vertex="1">
           <mxGeometry height="220" width="540" x="660" y="1300" as="geometry" />
         </mxCell>
         <mxCell id="50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#CFEED7;strokeColor=#7FC28F;fontStyle=1;fontSize=17;fontColor=#1E4D2B;arcSize=16;" value="4. 強み・差別化" vertex="1">
@@ -109,7 +109,7 @@
         <mxCell id="130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#FCE4EC;strokeColor=#C97B9E;fontStyle=1;fontSize=17;fontColor=#7A274F;arcSize=16;" value="12. 苦労したこと・学び" vertex="1">
           <mxGeometry height="56" width="320" x="1900" y="1360" as="geometry" />
         </mxCell>
-        <mxCell id="131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#C97B9E;fontSize=13;fontColor=#7A274F;arcSize=14;" value="・個人開発ゲームではイラストや3Dモデルを外注と連携して制作&#xa;・美術面は審美感の差が出やすく、詳細仕様書を作ってもイメージがずれることがあった&#xa;・成果物を見ながら認識のずれを一つずつすり合わせ、修正を重ねる調整に苦労&#xa;・学びとして、参考イメージの共有と早い段階の対話が重要だと実感した" vertex="1">
+        <mxCell id="131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#C97B9E;fontSize=13;fontColor=#7A274F;arcSize=14;" value="・個人開発ゲームではイラストや3Dモデルを外注と連携して制作&lt;br&gt;・美術面は審美感の差が出やすく、詳細仕様書を作ってもイメージがずれることがあった&lt;br&gt;・成果物を見ながら認識のずれを一つずつすり合わせ、修正を重ねる調整に苦労&lt;br&gt;・学びとして、参考イメージの共有と早い段階の対話が重要だと実感した&lt;div&gt;・お知らせ機能の開発( 計画段階で感覚で動くではなくて、ちゃんと仕様の研究を踏まえて、計画を立てる、関係者と密に事前確認 )&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="540" x="1900" y="1430" as="geometry" />
         </mxCell>
         <mxCell id="150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#F5F7FA;strokeColor=#C2CBD6;fontSize=13;fontColor=#425466;arcSize=14;" value="このページでは主線だけを管理し、面接官別の評価軸、よく聞かれる質問、会社別志望動機は別ページで運用する。&#xa;1分で話す版と深掘り版を切り替えやすくするため、材料を役割ごとに分けて保持する。" vertex="1">
@@ -226,7 +226,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="company-cards" name="3. 会社別カード">
-    <mxGraphModel dx="1431" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="1900" math="0" shadow="0">
+    <mxGraphModel dx="1280" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="1900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
