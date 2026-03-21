@@ -348,31 +348,31 @@
         <mxCell id="40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#F8D8D8;strokeColor=#D58B8B;fontStyle=1;fontSize=17;fontColor=#6B2D2D;arcSize=16;" value="2. 要件定義" vertex="1">
           <mxGeometry height="56" width="380" x="460" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#D58B8B;fontSize=13;fontColor=#6B2D2D;arcSize=14;" value="・業務要件、機能要件、非機能要件、運用要件を明確化&#xa;・画面、権限、データ連携、例外系、受入条件を固める&#xa;・日本では顧客 / 事業側との合意工程として重視されやすい" vertex="1">
+        <mxCell id="41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#D58B8B;fontSize=13;fontColor=#6B2D2D;arcSize=14;" value="・業務要件、機能要件、非機能要件、運用要件を明確化&#xa;・画面、権限、データ連携、例外系、受入条件を固める&#xa;・外部API障害時の代替動作、再試行方針、非同期処理の状態表示 / 通知もここで決める&#xa;・日本では顧客 / 事業側との合意工程として重視されやすい" vertex="1">
           <mxGeometry height="250" width="380" x="460" y="370" as="geometry" />
         </mxCell>
         <mxCell id="50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#E5E0F7;strokeColor=#9E8FD6;fontStyle=1;fontSize=17;fontColor=#423470;arcSize=16;" value="3. 設計（基本 / 詳細）" vertex="1">
           <mxGeometry height="56" width="380" x="880" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#9E8FD6;fontSize=13;fontColor=#423470;arcSize=14;" value="・基本設計: 画面 / API / DB / 外部IF / 遷移 / 権限の外部向け設計&#xa;・詳細設計: 処理フロー、テーブル詳細、責務分離などの内部設計&#xa;・レビューで実装方針とテスト観点を詰める" vertex="1">
+        <mxCell id="51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#9E8FD6;fontSize=13;fontColor=#423470;arcSize=14;" value="・基本設計: 画面 / API / DB / 外部IF / 遷移 / 権限の外部向け設計&#xa;・詳細設計: 処理フロー、テーブル詳細、責務分離などの内部設計&#xa;・外部APIは失敗前提で、Adapter化、タイムアウト、リトライ、フォールバックを設計する&#xa;・レビューで実装方針とテスト観点を詰める" vertex="1">
           <mxGeometry height="250" width="380" x="880" y="370" as="geometry" />
         </mxCell>
         <mxCell id="60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#CFEED7;strokeColor=#7FC28F;fontStyle=1;fontSize=17;fontColor=#1E4D2B;arcSize=16;" value="4. 実装" vertex="1">
           <mxGeometry height="56" width="380" x="1300" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#7FC28F;fontSize=13;fontColor=#1E4D2B;arcSize=14;" value="・フロント、バック、インフラ設定、マイグレーションを実装&#xa;・Git、Pull Request、コードレビュー、CIで品質を積む&#xa;・仕様差分や相談事項はチケット、コメント、口頭で早めに共有" vertex="1">
+        <mxCell id="61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#7FC28F;fontSize=13;fontColor=#1E4D2B;arcSize=14;" value="・フロント、バック、インフラ設定、マイグレーションを実装&#xa;・非同期処理はジョブID、状態管理、ポーリング / Webhook、UI表示まで実装する&#xa;・Git、Pull Request、コードレビュー、CIで品質を積む&#xa;・仕様差分や相談事項はチケット、コメント、口頭で早めに共有" vertex="1">
           <mxGeometry height="250" width="380" x="1300" y="370" as="geometry" />
         </mxCell>
         <mxCell id="70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#FFF2CC;strokeColor=#D6B656;fontStyle=1;fontSize=17;fontColor=#5C4300;arcSize=16;" value="5. テスト" vertex="1">
           <mxGeometry height="56" width="380" x="1720" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=13;fontColor=#5C4300;arcSize=14;" value="・単体→結合→総合 / システム→受入の順で進むことが多い&#xa;・テストケース、観点表、障害票、改修確認を回す&#xa;・性能、セキュリティ、可用性は上流から織り込む" vertex="1">
+        <mxCell id="71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=13;fontColor=#5C4300;arcSize=14;" value="・単体→結合→総合 / システム→受入の順で進むことが多い&#xa;・テストケース、観点表、障害票、改修確認を回す&#xa;・外部API障害、再試行、タイムアウト、非同期状態遷移の観点を確認する&#xa;・性能、セキュリティ、可用性は上流から織り込む" vertex="1">
           <mxGeometry height="250" width="380" x="1720" y="370" as="geometry" />
         </mxCell>
         <mxCell id="80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#D7F1EE;strokeColor=#74B8AF;fontStyle=1;fontSize=17;fontColor=#18524A;arcSize=16;" value="6. リリース・運用" vertex="1">
           <mxGeometry height="56" width="380" x="2140" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#74B8AF;fontSize=13;fontColor=#18524A;arcSize=14;" value="・本番反映、データ移行、監視、問い合わせ、障害対応を実施&#xa;・ログ、KPI、CSの声を次の改善へ返す&#xa;・近年はDevOps的に運用から上流へフィードバックする" vertex="1">
+        <mxCell id="81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#74B8AF;fontSize=13;fontColor=#18524A;arcSize=14;" value="・本番反映、データ移行、監視、問い合わせ、障害対応を実施&#xa;・外部API失敗率、キュー滞留、再試行回数、ジョブ失敗を監視する&#xa;・ログ、KPI、CSの声を次の改善へ返す&#xa;・近年はDevOps的に運用から上流へフィードバックする" vertex="1">
           <mxGeometry height="250" width="380" x="2140" y="370" as="geometry" />
         </mxCell>
         <mxCell id="90" edge="1" parent="1" source="30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5B6574;strokeWidth=2;" target="40">
@@ -419,6 +419,12 @@
         </mxCell>
         <mxCell id="150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#F5F7FA;strokeColor=#C2CBD6;fontSize=13;fontColor=#425466;arcSize=14;" value="整理ベース: IPA 共通フレーム2013 / SLCP、IPA 非機能要求グレード、IPA Webアプリ脆弱性対策、デジタル庁 アジャイル開発実践ガイドブック。&#xa;このページは、公的資料の考え方を日本のWeb系開発で通じやすい実務用語へ要約したもの。" vertex="1">
           <mxGeometry height="88" width="2440" x="40" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="160" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#456B8A;" value="C. 追加キーワードの位置づけ" vertex="1">
+          <mxGeometry height="30" width="340" x="40" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="161" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#6F95D8;fontSize=13;fontColor=#22407A;arcSize=14;" value="1. 外部APIは必ず壊れる前提で設計する: 主軸は 設計（基本 / 詳細） と リリース・運用。要件定義で「止まってよいか、代替表示するか、再試行するか」を決め、設計で Adapter化 / タイムアウト / リトライ / フォールバックを入れ、運用で失敗率やアラート監視につなげる。&#xa;&#xa;2. 非同期状態の可視化: 主軸は 要件定義、設計、実装。即時完了しない処理について、受付済み / 実行中 / 成功 / 失敗 / 再試行中 をユーザーと運用者の両方が判別できるようにし、ジョブ管理、通知、監視まで含めて考える。" vertex="1">
+          <mxGeometry height="190" width="2440" x="40" y="1270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
