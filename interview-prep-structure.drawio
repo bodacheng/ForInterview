@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" compressed="false" version="29.6.3" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" compressed="false" version="29.6.4" pages="5">
   <diagram id="master-story" name="1. 主線整理">
-    <mxGraphModel dx="1280" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="2100" math="0" shadow="0">
+    <mxGraphModel dx="1013" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="2100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
         <mxCell id="60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#FDE7CC;strokeColor=#D9A25F;fontStyle=1;fontSize=17;fontColor=#6A4517;arcSize=16;" value="5. AI活用・新技術" vertex="1">
           <mxGeometry height="56" width="320" x="1900" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#D9A25F;fontSize=13;fontColor=#6A4517;arcSize=14;" value="・最近はAIとクラウド技術を中心に学んでいる&#xa;・具体的には、AI APIの活用や Azure などのクラウドインフラを使ったアプリケーション開発に力を入れている&#xa;・普段の開発業務では、AIをコード作成のたたき台、コードレビュー補助、仕様チェックの観点整理に取り入れている&#xa;・AI時代の優秀なエンジニアは、単にコードを書く人ではなく、曖昧な要求を壊れない仕様に変えられる人だと考えている&#xa;・そのため、何が本当の課題かを定義し、AIの出力も正しさ・性能・セキュリティの観点で必ず検証する&#xa;・不確実な状況でも、小さく試しながら前に進める姿勢を大切にしている" vertex="1">
+        <mxCell id="61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#D9A25F;fontSize=13;fontColor=#6A4517;arcSize=14;" value="・最近はAIとクラウド技術を中心に学んでいる&lt;br&gt;・具体的には、AI APIの活用や Azure などのクラウドインフラを使ったアプリケーション開発に力を入れている&lt;br&gt;・普段の開発業務では、AIをコード作成のたたき台、コードレビュー補助、仕様チェックの観点整理に取り入れている&lt;br&gt;&lt;br&gt;&lt;br&gt;AI時代の優秀なエンジニア：&lt;div&gt;&lt;br&gt;&lt;div&gt;1.&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(106, 69, 23), rgb(202, 170, 131));&quot;&gt;曖昧な要求を壊れない仕様に変えられる人だと考えている&lt;br&gt;2.&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(106, 69, 23), rgb(202, 170, 131));&quot;&gt;何が本当の課題かを定義し、AIの出力も正しさ・性能・セキュリティの観点で必ず検証する&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(106, 69, 23), rgb(202, 170, 131));&quot;&gt;3.AIはいかに強力になっても、ツールとして責任を背負うことができない、エンジニアとして、AIが作ったシステムを、知識や経験を持って徹底的に評価する能力を持つことが大事。&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="330" width="540" x="1900" y="450" as="geometry" />
         </mxCell>
         <mxCell id="70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#DDEBF7;strokeColor=#6E9FCC;fontStyle=1;fontSize=17;fontColor=#224B76;arcSize=16;" value="6. 要件理解・仕様整理" vertex="1">
@@ -344,7 +344,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="japan-web-process" name="5. 日本Web系開発プロセス">
-    <mxGraphModel dx="2432" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="1900" math="0" shadow="0">
+    <mxGraphModel dx="2211" dy="1355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="1900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
