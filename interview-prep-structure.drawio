@@ -226,7 +226,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="company-cards" name="3. 会社別カード">
-    <mxGraphModel dx="1280" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="1900" math="0" shadow="0">
+    <mxGraphModel dx="1280" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="2800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -277,6 +277,18 @@
         </mxCell>
         <mxCell id="29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FDE7CC;strokeColor=#D9A25F;fontSize=13;fontColor=#6A4517;" value="面接前の最終確認&#xa;・この会社で話す強みは何か&#xa;・懸念を先回りしてどう返すか&#xa;・逆質問を2〜3個に絞れているか&#xa;・主線整理の内容と矛盾がないか" vertex="1">
           <mxGeometry height="220" width="520" x="1060" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#E8F1FB;strokeColor=#7EA5CC;fontStyle=1;fontSize=17;fontColor=#1F4164;" value="アイ・ティ・リアライズ株式会社" vertex="1">
+          <mxGeometry height="56" width="460" x="40" y="1910" as="geometry" />
+        </mxCell>
+        <mxCell id="37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#7EA5CC;fontSize=13;fontColor=#1F4164;" value="1分版の整理&#xa;【事業理解】&#xa;・金融サービスのデジタル化支援を軸に、自社サービスとして バンクアプリ with CRECO、スタンペイ、CRECO を展開している&#xa;・地方銀行 / 信用組合向けの口座・カード管理や、地域送客、キャッシュレス決済など、金融と地域経済をつなぐサービスを持つ&#xa;・2025年4月18日に SBペイメントサービスの完全子会社となり、決済・金融サービスの両面から支援領域を広げている&#xa;&#xa;【志望動機】&#xa;・金融・決済は社会インフラに近く、利用者の安心・安全と利便性を支える責任の大きい領域だと考えている&#xa;・ゲーム開発で培ったユーザー体験づくりの力を活かしつつ、ITRのように金融DXを担う環境で、より市場価値の高いスキルを磨きたい&#xa;&#xa;【経験接続】&#xa;・UI/UX視点だけでなく、API連携、仕様整理、安定運用まで踏み込んできた経験は、金融アプリや決済サービスでも活かせる&#xa;・現職では近い開発の繰り返しが多かったため、高い信頼性と継続改善が求められる領域で成長幅を広げたい&#xa;&#xa;【入社後の貢献】&#xa;・CRECO関連サービスや金融機関連携機能の改善を通じて、利用者にとって分かりやすく、安心して使えるサービスづくりに貢献したい" vertex="1">
+          <mxGeometry height="720" width="980" x="40" y="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#E8F1FB;strokeColor=#7EA5CC;fontStyle=1;fontSize=17;fontColor=#1F4164;" value="事業理解メモ" vertex="1">
+          <mxGeometry height="56" width="300" x="1060" y="1910" as="geometry" />
+        </mxCell>
+        <mxCell id="39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#7EA5CC;fontSize=13;fontColor=#1F4164;" value="【主要事業】&#xa;・金融アプリケーションサービス（CRECO / スタンペイ）&#xa;・ITサービス開発支援&#xa;・フィンテック事業支援&#xa;&#xa;【バンクアプリ with CRECO】&#xa;・スマホ版バンキング通帳、クレジットカード一括管理、地元店舗からのお得情報配信を統合したパッケージ&#xa;・地方銀行 / 信用組合向けに展開し、金融機関のデジタル化と地域送客を両立している&#xa;&#xa;【スタンペイ】&#xa;・QR決済や電子スタンプに対応したキャッシュレス決済ソリューション&#xa;・自治体向けプレミアム電子商品券、地域イベント、インバウンド対応などに展開できる&#xa;&#xa;【採用ポジションとの接続】&#xa;・経験者ITエンジニアは、CRECO関連スマホアプリのバックエンドを中心に、インフラ、アプリ、Webの設計・開発・保守を担当&#xa;・金融機関口座連携、カードアグリゲーション、関連機能の開発が想定されている&#xa;&#xa;【面接での接続】&#xa;・つまり、金融・決済を、ユーザー体験と地域経済の両面から支える会社と理解している" vertex="1">
+          <mxGeometry height="720" width="1180" x="1060" y="1980" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
