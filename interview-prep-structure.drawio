@@ -226,7 +226,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="company-cards" name="3. 会社別カード">
-    <mxGraphModel dx="1057" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="2800" math="0" shadow="0">
+    <mxGraphModel dx="1057" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="4200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,6 +289,15 @@
         </mxCell>
         <mxCell id="39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#7EA5CC;fontSize=13;fontColor=#1F4164;" value="【主要事業】&#xa;・金融アプリケーションサービス（CRECO / スタンペイ）&#xa;・ITサービス開発支援&#xa;・フィンテック事業支援&#xa;&#xa;【ガバナンス統合（この1年）】&#xa;・親会社はSBペイメントサービス（ソフトバンク系）で、2025年4月18日に完全子会社化&#xa;・この1年は、決算・管理・各種ルールをグループ基準へそろえる統合プロセスが進んでいる&#xa;・今後は整えたルールを実運用として定着させるフェーズ&#xa;・つまり、スタートアップから大企業品質へ進化中&#xa;&#xa;【事業シナジー（これからの本命）】&#xa;・従来は地方銀行 / 信用組合向けアプリ提供や、個人向けの口座・明細管理アプリ CRECO が中心&#xa;・今後はSBペイメントサービスの強みである決済領域と連携し、預金情報と決済情報を横断して扱える形へ広げる&#xa;・狙いは、金融データの統合プラットフォーム化&#xa;&#xa;【今後の主戦場】&#xa;・重心は個人向けだけでなく、法人、特にスモールビジネス向けへ移る&#xa;・個人向けCRECOは既存事業として継続しつつ、法人版CRECOを新規開発中&#xa;・対象は個人事業主、小規模法人&#xa;&#xa;【提供価値の進化】&#xa;・これまでは残高・入出金確認が中心&#xa;・これからは決済データ統合、売上管理、キャッシュフロー可視化まで踏み込む&#xa;・つまり、銀行アプリからビジネス管理ツールへ進化&#xa;&#xa;【採用ポジションとの接続】&#xa;・経験者ITエンジニアは、CRECO関連のバックエンドを中心に、金融機関連携、決済連携、法人向け機能拡張まで広く関わる可能性がある&#xa;・統合フェーズでは、機能開発だけでなく、グループ基準に沿った設計・運用・保守の作り込みも重要になる&#xa;&#xa;【面接での接続】&#xa;・つまり、アイ・ティ・リアライズは「金融 × 決済データを統合した法人向けDXプロダクト」へ進化しようとしている会社と理解している" vertex="1">
           <mxGeometry height="980" width="1180" x="1060" y="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;fillColor=#E8F1FB;strokeColor=#7EA5CC;fontStyle=1;fontSize=17;fontColor=#1F4164;" value="LINEヤフー株式会社" vertex="1">
+          <mxGeometry height="56" width="460" x="40" y="3070" as="geometry" />
+        </mxCell>
+        <mxCell id="41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#7EA5CC;fontSize=12;fontColor=#1F4164;" value="30秒版の志望動機&#xa;・私はゲームが非常に好きで、ゲーム会社での開発経験と個人開発の両方があります。その上で今回はゲーム業界だけに絞らず、今後は個別タイトル開発よりも、開発者やプロモーションを支える基盤側で価値を出したいと考えています。LINE GAME Platform はその方向性とゲームへの情熱の両方をつなげられる点で、非常に魅力を感じています。" vertex="1">
+          <mxGeometry height="240" width="760" x="40" y="3140" as="geometry" />
+        </mxCell>
+        <mxCell id="42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;spacingLeft=12;spacingTop=10;fillColor=#FFFFFF;strokeColor=#7EA5CC;fontSize=13;fontColor=#1F4164;" value="1分版の整理&#xa;【ポジション】&#xa;・テクニカルディレクター / LINE GAME Platform&#xa;&#xa;【志望動機】&#xa;・私はゲームが非常に好きで、これまでゲーム会社での開発に関わってきたほか、個人でもゲームを作ってきた&#xa;・ただ、今回の転職活動はゲーム業界だけに絞っているわけではない&#xa;・AI技術の進化によって今後はモバイルゲーム市場自体も大きく変化すると考えており、具体的なゲームタイトル開発より、より広く事業や基盤を支える側にキャリアを築きたいと考えるようになった&#xa;&#xa;【転職軸との一貫性】&#xa;・そうした背景から、今回はWeb系企業にも複数応募しており、最初はLINEヤフーのネットサービス関連ポジションに応募した&#xa;・現在は金融系サービス開発の内定もいただいているが、金融も社会に不可欠な領域であり、社会を支える基盤に関わりたいという軸は一貫している&#xa;&#xa;【なぜLINE GAME Platformか】&#xa;・今回お話をいただいたゲームプラットフォームのポジションは、単なるゲーム開発ではなく、ゲーム開発者やプロモーションを支える基盤側の役割だと理解している&#xa;・それは自分が今後築きたいキャリアの方向性と合っており、同時にゲームへの情熱も活かせる点で非常に魅力を感じている&#xa;・個別タイトルを作る立場で培った現場理解を、より広いプラットフォーム価値へつなげられると考えている&#xa;&#xa;【経験接続】&#xa;・ゲーム開発現場でのクライアント実装や運用経験に加え、個人開発では設計からリリースまで一気通貫で担当してきた&#xa;・Jenkinsを中心としたビルド基盤構築、配布自動化、APIや仕様整理の経験もあり、開発者支援や運用基盤に近いテーマにも接続できる&#xa;・現場で実際に困る点を理解した上で、基盤側から改善していけることが自分の強み&#xa;&#xa;【入社後の貢献】&#xa;・LINE GAME Platform において、開発者やプロモーションを支える基盤の使いやすさ、品質、運用効率の向上に貢献したい&#xa;・ゲームへの理解を持ちながら、より多くのタイトルや関係者を支える役割として価値を出したい" vertex="1">
+          <mxGeometry height="880" width="1400" x="840" y="3070" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
